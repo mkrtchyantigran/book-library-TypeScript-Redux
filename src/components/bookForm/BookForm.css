@@ -1,0 +1,45 @@
+
+
+.book-form {
+    width: 100%;
+}
+
+.book-form label {
+    margin-bottom: 10px;
+}
+
+.book-form input {
+    width: 80%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+.book-form button {
+    background: #007bff;
+    color: white;
+    padding: 8px 12px;
+    border: none;
+    cursor: pointer;
+    margin: 10px;
+    transition: background-color 0.3 ease;
+}
+
+.book-form button:hover {
+    background: #0056b3
+}
+
+.book-form .spinner {
+    animation: spinner 1s infinite linear;
+    margin-bottom: 10px;
+}
+
+@keyframes spinner {
+    from {
+        transform: rotate(90deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
