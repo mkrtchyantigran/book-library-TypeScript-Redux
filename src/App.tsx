@@ -1,6 +1,6 @@
 
 import "./App.css"
-import BookForm from "./components/bookForm/BookForm.tsx";
+import BookForm from "./components/BookForm/BookForm.tsx";
 import BookList from "./components/BookList/BookList";
 import Filter from "./components/Filter/Filter";
 
