@@ -6,6 +6,7 @@ import "./BookList.css"
 
 export default function BookList() {
     const books = useSelector((state: RootState) => state.books)
+    let i = 0;
     return (
         <div className="app-block book-list">
             {
@@ -13,10 +14,11 @@ export default function BookList() {
                     <p>No books yet.</p>
                 ) : (
                     <ul>
-                        {books.map((book: NewBook, index: number) => (
-                            <li key={index}>
+                        {books.map((book: NewBook) => (
+                            
+                            <li key={book.id}>
                                 <div className="book-info">
-                                    {book.title} by <strong>{book.author}</strong>
+                                   <span>{++i}</span> {book.title} by <strong>{book.author}</strong>
                                 </div>
                             </li>
                         ))}
