@@ -1,10 +1,28 @@
 
+import { useSelector } from "react-redux";
+import type { RootState } from "../../redux/store";
+import type { NewBook } from "../../redux/books/actionCreators";
+import "./BookList.css"
 
 export default function BookList() {
-    return <div className="app-block-book-list">
-        <form action="">
-            <button type="submit">Add Book</button>
-            <h2>Book List</h2>
-        </form>
-    </div>
+    const books = useSelector((state: RootState) => state.books)
+    return (
+        <div className="app-block book-list">
+            {
+                books.length === 0 ? (
+                    <p>No books yet.</p>
+                ) : (
+                    <ul>
+                        {books.map((book: NewBook, index: number) => (
+                            <li key={index}>
+                                <div className="book-info">
+                                    {book.title} by <strong>{book.author}</strong>
+                                </div>
+                            </li>
+                        ))}
+                    </ul>
+                )
+            }
+        </div>
+    )
 }
