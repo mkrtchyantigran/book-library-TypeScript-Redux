@@ -12,3 +12,10 @@ export const addBook = (newBook: NewBook) => {
         payload: newBook
     }
 }
+
+export const deleteBook = (initialBookId: string) => {
+    return {
+        type: actionType.DELETE_BOOK,
+        payload: initialBookId
+    }
+}

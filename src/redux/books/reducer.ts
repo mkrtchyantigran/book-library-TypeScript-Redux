@@ -1,6 +1,5 @@
 import * as actionType from "./actionType";
 import type { NewBook } from "./actionCreators";
-
 interface BookAction {
   type: string;
   payload?: NewBook | string;
@@ -23,6 +22,8 @@ const bookReducer = (state = initialState, action: BookAction): NewBook[] => {
   switch (action.type) {
     case actionType.ADD_BOOK:
       return [...state, action.payload as NewBook];
+    case actionType.DELETE_BOOK:
+      return state.filter((book) => book.id !== action.payload)
     default:
       return state;
   }
