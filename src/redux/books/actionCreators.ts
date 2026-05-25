@@ -1,10 +1,7 @@
 import * as actionType from "./actionType";
 
-export interface NewBook {
-    title: string;
-    author: string;
-    id: string;
-}
+import { type NewBook } from "../../components/interfaces/NewBookInterface";
+
 
 export const addBook = (newBook: NewBook) => {
     return {

@@ -1,5 +1,5 @@
 import * as actionType from "./actionType";
-import type { NewBook } from "./actionCreators";
+import { type NewBook } from "../../components/interfaces/NewBookInterface";
 interface BookAction {
   type: string;
   payload?: NewBook | string;

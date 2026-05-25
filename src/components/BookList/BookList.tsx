@@ -4,7 +4,7 @@ import { useDispatch } from "react-redux";
 import type { AppDispatch } from "../../redux/store";
 
 import type { RootState } from "../../redux/store";
-import type { NewBook } from "../../redux/books/actionCreators";
+import { type NewBook } from "../interfaces/NewBookInterface";
 import { deleteBook } from "../../redux/books/actionCreators";
 
 import "./BookList.css"
