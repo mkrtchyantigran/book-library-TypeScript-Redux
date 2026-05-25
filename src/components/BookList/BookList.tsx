@@ -5,7 +5,8 @@ import type { AppDispatch } from "../../redux/store";
 
 import type { RootState } from "../../redux/store";
 import { type NewBook } from "../interfaces/NewBookInterface";
-import { deleteBook } from "../../redux/books/actionCreators";
+import { deleteBook, toggleFavorite } from "../../redux/books/actionCreators";
+import { MdFavorite, MdFavoriteBorder } from "react-icons/md";
 
 import "./BookList.css"
 
@@ -18,6 +19,10 @@ export default function BookList() {
         dispatch(deleteBook(bookId))
     }
 
+    const handleToggleFavorite = (id:string) => {
+        dispatch(toggleFavorite(id))
+    }
+
     return (
         <div className="app-block book-list">
             {
@@ -26,13 +31,16 @@ export default function BookList() {
                 ) : (
                     <ul>
                         {books.map((book: NewBook) => (
-
                             <li key={book.id}>
                                 <div className="book-info">
                                     <span>{++i}</span> {book.title} by <strong>{book.author}</strong>
                                 </div>
                                 <div className="book-actions">
-                                    <button onClick={() => handleDeleteBook(book.id)}>delete</button>
+                                    
+                                    <button className="favorite" onClick={() => handleToggleFavorite(book.id)}>
+                                        {book.isFavorite ? <MdFavorite color="magenta" />: <MdFavoriteBorder /> }
+                                    </button>
+                                    <button className="delete" onClick={() => handleDeleteBook(book.id)}>delete</button>
                                 </div>
                             </li>
                         ))}

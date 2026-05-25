@@ -2,4 +2,5 @@ export interface NewBook {
     title: string;
     author: string;
     id: string;
+    isFavorite?: boolean;
 }
