@@ -7,11 +7,13 @@ import type { RootState } from "../../redux/store";
 import { type NewBook } from "../interfaces/NewBookInterface";
 import { deleteBook, toggleFavorite } from "../../redux/books/actionCreators";
 import { MdFavorite, MdFavoriteBorder } from "react-icons/md";
+import { selectFilterTitle } from "../../redux/slices/filterSlice";
 
 import "./BookList.css"
 
 export default function BookList() {
     const books = useSelector((state: RootState) => state.books)
+    const titleFilter = useSelector(selectFilterTitle)
     const dispatch = useDispatch<AppDispatch>();
     let i = 0;
 
@@ -22,7 +24,10 @@ export default function BookList() {
     const handleToggleFavorite = (id:string) => {
         dispatch(toggleFavorite(id))
     }
-
+    const filteredBooks = books.filter(book => {
+        return book.title.toLowerCase().includes(titleFilter.toLowerCase());
+        
+    })
     return (
         <div className="app-block book-list">
             {
@@ -30,7 +35,7 @@ export default function BookList() {
                     <p>No books yet.</p>
                 ) : (
                     <ul>
-                        {books.map((book: NewBook) => (
+                        {filteredBooks.map((book: NewBook) => (
                             <li key={book.id}>
                                 <div className="book-info">
                                     <span>{++i}</span> {book.title} by <strong>{book.author}</strong>
