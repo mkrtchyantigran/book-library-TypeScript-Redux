@@ -1,0 +1,56 @@
+.app-block {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    flex-wrap: nowrap;
+
+    .filter-group input {
+        padding: 8px 10px;
+        border: 1px solid #d0d0d0;
+        border-radius: 6px;
+        font-size: 14px;
+        outline: none;
+        transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+
+        &::placeholder {
+            color: #9a9a9a;
+        }
+
+        &:focus {
+            border-color: rgb(7, 217, 7);
+            box-shadow: 0 0 0 3px rgba(7, 217, 7, 0.15);
+        }
+    }
+
+    .favorite_and_reset {
+        display: flex;
+        align-items: center;
+        gap: 12px;
+
+        input[type="checkbox"] {
+            width: 16px;
+            height: 16px;
+            accent-color: rgb(7, 217, 7);
+            cursor: pointer;
+        }
+
+        button {
+            border: none;
+            background: rgb(7, 217, 7);
+            padding: 8px 14px;
+            color: #fff;
+            font-weight: 600;
+            border-radius: 6px;
+            cursor: pointer;
+            transition: background 0.15s ease-in-out, transform 0.05s ease-in-out;
+
+            &:hover {
+                background: green;
+            }
+
+            &:active {
+                transform: scale(0.97);
+            }
+        }
+    }
+}

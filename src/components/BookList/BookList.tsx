@@ -6,7 +6,7 @@ import type { RootState } from "../../redux/store";
 import { type NewBook } from "../interfaces/NewBookInterface";
 import { deleteBook, toggleFavorite } from "../../redux/books/actionCreators";
 import { MdFavorite, MdFavoriteBorder } from "react-icons/md";
-import { selectFilterTitle, selectFilterAuthor } from "../../redux/slices/filterSlice";
+import { selectFilterTitle, selectFilterAuthor,selectOnlyFavorite } from "../../redux/slices/filterSlice";
 
 import "./BookList.css"
 
@@ -16,6 +16,7 @@ export default function BookList() {
 
     const titleFilter = useSelector(selectFilterTitle)
     const authorFilter = useSelector(selectFilterAuthor)
+    const onlyFavoriteBooks = useSelector(selectOnlyFavorite);
 
     const dispatch = useDispatch<AppDispatch>();
     let i = 0;
@@ -30,7 +31,8 @@ export default function BookList() {
     const filteredBooks = books.filter(book => {
         const matchesTitle = book.title.toLowerCase().includes(titleFilter.toLowerCase());
         const matchesAuthor = book.author.toLowerCase().includes(authorFilter.toLowerCase());
-        return matchesTitle && matchesAuthor;
+        const matchesOnlyFavorite = onlyFavoriteBooks ? book.isFavorite : true;
+        return matchesTitle && matchesAuthor && matchesOnlyFavorite;
     })
 
 

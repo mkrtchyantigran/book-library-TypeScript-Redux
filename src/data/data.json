@@ -1,4002 +1,5002 @@
 [
   {
     "title": "Notes on Light and Salt",
-    "author": "Aravind Gyasi"
+    "author": "Aravind Gyasi",
+    "isFavorite": false
   },
   {
     "title": "The Frontier Keeper",
-    "author": "Brigid Kureishi"
+    "author": "Brigid Kureishi",
+    "isFavorite": false
   },
   {
     "title": "The Threshold of Rain",
-    "author": "Roddy Twan Eng"
+    "author": "Roddy Twan Eng",
+    "isFavorite": false
   },
   {
     "title": "The Ocean Keeper",
-    "author": "Tariq Okri"
+    "author": "Tariq Okri",
+    "isFavorite": false
   },
   {
     "title": "When the Cathedral Sleeps",
-    "author": "Bernardine Emezi"
+    "author": "Bernardine Emezi",
+    "isFavorite": false
   },
   {
     "title": "Olivia and the Quiet Ocean",
-    "author": "Aravind Danticat"
+    "author": "Aravind Danticat",
+    "isFavorite": false
   },
   {
     "title": "Hollow Dust",
-    "author": "Hilary Gyasi"
+    "author": "Hilary Gyasi",
+    "isFavorite": false
   },
   {
     "title": "The Whispering Ledger of Edinburgh",
-    "author": "Colson Okafor"
+    "author": "Colson Okafor",
+    "isFavorite": false
   },
   {
     "title": "When the Echo Sings",
-    "author": "Isabel Danticat"
+    "author": "Isabel Danticat",
+    "isFavorite": false
   },
   {
     "title": "Velvet Fire",
-    "author": "Jhumpa Mantel"
+    "author": "Jhumpa Mantel",
+    "isFavorite": false
   },
   {
     "title": "The House on Cathedral Road",
-    "author": "Bernardine Nguyen"
+    "author": "Bernardine Nguyen",
+    "isFavorite": false
   },
   {
     "title": "The House on Harbor Lane",
-    "author": "Trevor Smith"
+    "author": "Trevor Smith",
+    "isFavorite": false
   },
   {
     "title": "The House on Window Hill",
-    "author": "Ngozi Patel"
+    "author": "Ngozi Patel",
+    "isFavorite": false
   },
   {
     "title": "When the Lantern Falls",
-    "author": "Wole James"
+    "author": "Wole James",
+    "isFavorite": false
   },
   {
     "title": "Letters from Dublin",
-    "author": "Hanif Emezi"
+    "author": "Hanif Emezi",
+    "isFavorite": false
   },
   {
     "title": "When the Frontier Returns",
-    "author": "Mohsin Noah"
+    "author": "Mohsin Noah",
+    "isFavorite": false
   },
   {
     "title": "A History of Mercy",
-    "author": "Roddy Whitehead"
+    "author": "Roddy Whitehead",
+    "isFavorite": false
   },
   {
     "title": "Burning Hope",
-    "author": "Sofia Nguyen"
+    "author": "Sofia Nguyen",
+    "isFavorite": false
   },
   {
     "title": "The Orchard of Light",
-    "author": "Trevor Mantel"
+    "author": "Trevor Mantel",
+    "isFavorite": false
   },
   {
     "title": "The Bitter Wilderness",
-    "author": "Marlon Vuong"
+    "author": "Marlon Vuong",
+    "isFavorite": false
   },
   {
     "title": "The Hidden Storm of Calcutta",
-    "author": "James Roy"
+    "author": "James Roy",
+    "isFavorite": false
   },
   {
     "title": "The Crown of Longing",
-    "author": "Aravind Doyle"
+    "author": "Aravind Doyle",
+    "isFavorite": false
   },
   {
     "title": "The Journey of Hunger",
-    "author": "Akwaeke James"
+    "author": "Akwaeke James",
+    "isFavorite": false
   },
   {
     "title": "A History of Patience",
-    "author": "Ben Roy"
+    "author": "Ben Roy",
+    "isFavorite": false
   },
   {
     "title": "A History of Faith",
-    "author": "Hiro Patel"
+    "author": "Hiro Patel",
+    "isFavorite": false
   },
   {
     "title": "The Clockwork Keeper",
-    "author": "Colson Gyasi"
+    "author": "Colson Gyasi",
+    "isFavorite": false
   },
   {
     "title": "When the Journey Waits",
-    "author": "Imbolo Hamid"
+    "author": "Imbolo Hamid",
+    "isFavorite": false
   },
   {
     "title": "Bridge of Marrakech",
-    "author": "Wole Emezi"
+    "author": "Wole Emezi",
+    "isFavorite": false
   },
   {
     "title": "Ember of Marrakech",
-    "author": "Liam Kureishi"
+    "author": "Liam Kureishi",
+    "isFavorite": false
   },
   {
     "title": "Rising Patience",
-    "author": "Akwaeke Rushdie"
+    "author": "Akwaeke Rushdie",
+    "isFavorite": false
   },
   {
     "title": "When the Summer Waits",
-    "author": "Maya Gyasi"
+    "author": "Maya Gyasi",
+    "isFavorite": false
   },
   {
     "title": "The Forest Keeper",
-    "author": "Vikram Twan Eng"
+    "author": "Vikram Twan Eng",
+    "isFavorite": false
   },
   {
     "title": "The Ember of Solitude",
-    "author": "Vikram Gyasi"
+    "author": "Vikram Gyasi",
+    "isFavorite": false
   },
   {
     "title": "The Whispering Voyage of Edinburgh",
-    "author": "Chinua Achebe"
+    "author": "Chinua Achebe",
+    "isFavorite": false
   },
   {
     "title": "Amara and the Secret Shadow",
-    "author": "Zadie Mbue"
+    "author": "Zadie Mbue",
+    "isFavorite": false
   },
   {
     "title": "The Echo of Faith",
-    "author": "Min Jin Wainaina"
+    "author": "Min Jin Wainaina",
+    "isFavorite": false
   },
   {
     "title": "Femi and the Sunken Threshold",
-    "author": "Kazuo Murakami"
+    "author": "Kazuo Murakami",
+    "isFavorite": false
   },
   {
     "title": "Between Boston and Karachi",
-    "author": "Brigid Seth"
+    "author": "Brigid Seth",
+    "isFavorite": false
   },
   {
     "title": "Thomas and the Ancient Window",
-    "author": "Ngozi James"
+    "author": "Ngozi James",
+    "isFavorite": false
   },
   {
     "title": "The Bright Garden of Belfast",
-    "author": "Hilary Lee"
+    "author": "Hilary Lee",
+    "isFavorite": false
   },
   {
     "title": "The Storm of Salt",
-    "author": "Teju Whitehead"
+    "author": "Teju Whitehead",
+    "isFavorite": false
   },
   {
     "title": "Notes on Distance and Rain",
-    "author": "Aravind McCarthy"
+    "author": "Aravind McCarthy",
+    "isFavorite": false
   },
   {
     "title": "A Voyage in Manila",
-    "author": "Aravind Banerjee"
+    "author": "Aravind Banerjee",
+    "isFavorite": false
   },
   {
     "title": "The Voyage Keeper",
-    "author": "Ocean Whitehead"
+    "author": "Ocean Whitehead",
+    "isFavorite": false
   },
   {
     "title": "The Wild Shadow",
-    "author": "Colson Smith"
+    "author": "Colson Smith",
+    "isFavorite": false
   },
   {
     "title": "Between Cape Town and Karachi",
-    "author": "Roddy Mantel"
+    "author": "Roddy Mantel",
+    "isFavorite": false
   },
   {
     "title": "Amara's Promise",
-    "author": "Sofia Okri"
+    "author": "Sofia Okri",
+    "isFavorite": false
   },
   {
     "title": "The Frozen Cathedral of Colombo",
-    "author": "Aravind Evaristo"
+    "author": "Aravind Evaristo",
+    "isFavorite": false
   },
   {
     "title": "The Secret Keeper",
-    "author": "Sean Smith"
+    "author": "Sean Smith",
+    "isFavorite": false
   },
   {
     "title": "Notes on Dust and Rain",
-    "author": "Hilary Evaristo"
+    "author": "Hilary Evaristo",
+    "isFavorite": false
   },
   {
     "title": "Stolen Salt",
-    "author": "Aravind Mbue"
+    "author": "Aravind Mbue",
+    "isFavorite": false
   },
   {
     "title": "Confession of Cairo",
-    "author": "Colson Roy"
+    "author": "Colson Roy",
+    "isFavorite": false
   },
   {
     "title": "The Drowned Carnival",
-    "author": "Bernardine Rushdie"
+    "author": "Bernardine Rushdie",
+    "isFavorite": false
   },
   {
     "title": "The House on Voyage Hill",
-    "author": "Teju Nguyen"
+    "author": "Teju Nguyen",
+    "isFavorite": false
   },
   {
     "title": "Letters from Vancouver",
-    "author": "Akwaeke Murakami"
+    "author": "Akwaeke Murakami",
+    "isFavorite": false
   },
   {
     "title": "The Wilderness of Freedom",
-    "author": "Yaa Whitehead"
+    "author": "Yaa Whitehead",
+    "isFavorite": false
   },
   {
     "title": "Winter of Lisbon",
-    "author": "Trevor Roy"
+    "author": "Trevor Roy",
+    "isFavorite": false
   },
   {
     "title": "The House on Mountain Road",
-    "author": "Edwidge Noah"
+    "author": "Edwidge Noah",
+    "isFavorite": false
   },
   {
     "title": "Lucia's Frontier",
-    "author": "Teju Emezi"
+    "author": "Teju Emezi",
+    "isFavorite": false
   },
   {
     "title": "The Wild Empire of Vancouver",
-    "author": "Wole Okri"
+    "author": "Wole Okri",
+    "isFavorite": false
   },
   {
     "title": "The House on Cathedral Lane",
-    "author": "Min Jin Lee"
+    "author": "Min Jin Lee",
+    "isFavorite": false
   },
   {
     "title": "Summer of Kingston",
-    "author": "Kazuo Murakami"
+    "author": "Kazuo Murakami",
+    "isFavorite": false
   },
   {
     "title": "The Golden Vineyard of Nairobi",
-    "author": "Hilary Lahiri"
+    "author": "Hilary Lahiri",
+    "isFavorite": false
   },
   {
     "title": "A History of Light",
-    "author": "Sean Patel"
+    "author": "Sean Patel",
+    "isFavorite": false
   },
   {
     "title": "A History of Wonder",
-    "author": "Hilary Whitehead"
+    "author": "Hilary Whitehead",
+    "isFavorite": false
   },
   {
     "title": "Threshold of Edinburgh",
-    "author": "Mohsin Adichie"
+    "author": "Mohsin Adichie",
+    "isFavorite": false
   },
   {
     "title": "The Savage Wilderness",
-    "author": "Vikram Cole"
+    "author": "Vikram Cole",
+    "isFavorite": false
   },
   {
     "title": "Olivia and the Last Summer",
-    "author": "Sofia Wainaina"
+    "author": "Sofia Wainaina",
+    "isFavorite": false
   },
   {
     "title": "When the Desert Returns",
-    "author": "Sofia Vuong"
+    "author": "Sofia Vuong",
+    "isFavorite": false
   },
   {
     "title": "The Wilderness of Distance",
-    "author": "Trevor Danticat"
+    "author": "Trevor Danticat",
+    "isFavorite": false
   },
   {
     "title": "The Falling Shadow",
-    "author": "Ngozi Nguyen"
+    "author": "Ngozi Nguyen",
+    "isFavorite": false
   },
   {
     "title": "The Mirror Keeper",
-    "author": "Chinua Whitehead"
+    "author": "Chinua Whitehead",
+    "isFavorite": false
   },
   {
     "title": "Femi and the Bright Throne",
-    "author": "Kofi Mantel"
+    "author": "Kofi Mantel",
+    "isFavorite": false
   },
   {
     "title": "The Cathedral of Light",
-    "author": "Wole Evaristo"
+    "author": "Wole Evaristo",
+    "isFavorite": false
   },
   {
     "title": "The Drowned Lantern of Mumbai",
-    "author": "Colson Achebe"
+    "author": "Colson Achebe",
+    "isFavorite": false
   },
   {
     "title": "Esther and the Silent Desert",
-    "author": "Anita McCarthy"
+    "author": "Anita McCarthy",
+    "isFavorite": false
   },
   {
     "title": "Sacred Patience",
-    "author": "Tan Naipaul"
+    "author": "Tan Naipaul",
+    "isFavorite": false
   },
   {
     "title": "Bitter Hope",
-    "author": "Ocean Okri"
+    "author": "Ocean Okri",
+    "isFavorite": false
   },
   {
     "title": "Between Singapore and Lisbon",
-    "author": "James James"
+    "author": "James James",
+    "isFavorite": false
   },
   {
     "title": "Threshold of Dublin",
-    "author": "Sean Adebayo"
+    "author": "Sean Adebayo",
+    "isFavorite": false
   },
   {
     "title": "Velvet Mercy",
-    "author": "James Okri"
+    "author": "James Okri",
+    "isFavorite": false
   },
   {
     "title": "Notes on Distance and Hunger",
-    "author": "Edwidge McCarthy"
+    "author": "Edwidge McCarthy",
+    "isFavorite": false
   },
   {
     "title": "Letters from Lagos",
-    "author": "Tariq Gyasi"
+    "author": "Tariq Gyasi",
+    "isFavorite": false
   },
   {
     "title": "The House on Wilderness Street",
-    "author": "Hilary Evaristo"
+    "author": "Hilary Evaristo",
+    "isFavorite": false
   },
   {
     "title": "The Ember of Faith",
-    "author": "Colson Soyinka"
+    "author": "Colson Soyinka",
+    "isFavorite": false
   },
   {
     "title": "Beatrice's Throne",
-    "author": "Colson James"
+    "author": "Colson James",
+    "isFavorite": false
   },
   {
     "title": "The Drowned Echo",
-    "author": "Tariq Smith"
+    "author": "Tariq Smith",
+    "isFavorite": false
   },
   {
     "title": "Shadow of Accra",
-    "author": "Ocean Banerjee"
+    "author": "Ocean Banerjee",
+    "isFavorite": false
   },
   {
     "title": "The Secret City of Belfast",
-    "author": "Akwaeke Lahiri"
+    "author": "Akwaeke Lahiri",
+    "isFavorite": false
   },
   {
     "title": "Promise of Calcutta",
-    "author": "Min Jin Vuong"
+    "author": "Min Jin Vuong",
+    "isFavorite": false
   },
   {
     "title": "The Empty Storm of Calcutta",
-    "author": "Tariq Adebayo"
+    "author": "Tariq Adebayo",
+    "isFavorite": false
   },
   {
     "title": "A Vineyard in Cairo",
-    "author": "Colson Rushdie"
+    "author": "Colson Rushdie",
+    "isFavorite": false
   },
   {
     "title": "Letters from Sydney",
-    "author": "Ben Mbue"
+    "author": "Ben Mbue",
+    "isFavorite": false
   },
   {
     "title": "A Throne in Glasgow",
-    "author": "Anita Danticat"
+    "author": "Anita Danticat",
+    "isFavorite": false
   },
   {
     "title": "Notes on Rain and Sorrow",
-    "author": "Cormac Danticat"
+    "author": "Cormac Danticat",
+    "isFavorite": false
   },
   {
     "title": "The Last Forest of Mumbai",
-    "author": "Akwaeke Kureishi"
+    "author": "Akwaeke Kureishi",
+    "isFavorite": false
   },
   {
     "title": "Walter's Clockwork",
-    "author": "Vikram Lee"
+    "author": "Vikram Lee",
+    "isFavorite": false
   },
   {
     "title": "Restless Patience",
-    "author": "Vikram Gyasi"
+    "author": "Vikram Gyasi",
+    "isFavorite": false
   },
   {
     "title": "When the Letter Sleeps",
-    "author": "Kofi McCarthy"
+    "author": "Kofi McCarthy",
+    "isFavorite": false
   },
   {
     "title": "The Fading Inheritance of Brooklyn",
-    "author": "Trevor McCarthy"
+    "author": "Trevor McCarthy",
+    "isFavorite": false
   },
   {
     "title": "A History of Longing",
-    "author": "Sean Seth"
+    "author": "Sean Seth",
+    "isFavorite": false
   },
   {
     "title": "The Compass Keeper",
-    "author": "Edwidge Roy"
+    "author": "Edwidge Roy",
+    "isFavorite": false
   },
   {
     "title": "A History of Dust",
-    "author": "Olivia Lahiri"
+    "author": "Olivia Lahiri",
+    "isFavorite": false
   },
   {
     "title": "A History of Rain",
-    "author": "Ngozi Doyle"
+    "author": "Ngozi Doyle",
+    "isFavorite": false
   },
   {
     "title": "Empire of Calcutta",
-    "author": "Olivia Wainaina"
+    "author": "Olivia Wainaina",
+    "isFavorite": false
   },
   {
     "title": "The House on Marketplace Lane",
-    "author": "Cormac O'Brien"
+    "author": "Cormac O'Brien",
+    "isFavorite": false
   },
   {
     "title": "The Velvet Journey",
-    "author": "Liam Soyinka"
+    "author": "Liam Soyinka",
+    "isFavorite": false
   },
   {
     "title": "Between Manila and Sydney",
-    "author": "Liam Adichie"
+    "author": "Liam Adichie",
+    "isFavorite": false
   },
   {
     "title": "A Crown in Calcutta",
-    "author": "Tariq Soyinka"
+    "author": "Tariq Soyinka",
+    "isFavorite": false
   },
   {
     "title": "Amara's Confession",
-    "author": "Akwaeke Patel"
+    "author": "Akwaeke Patel",
+    "isFavorite": false
   },
   {
     "title": "The House on Inheritance Street",
-    "author": "Ben Soyinka"
+    "author": "Ben Soyinka",
+    "isFavorite": false
   },
   {
     "title": "The Falling Lantern of Accra",
-    "author": "Akwaeke Mantel"
+    "author": "Akwaeke Mantel",
+    "isFavorite": false
   },
   {
     "title": "The House on Summer Lane",
-    "author": "Vikram Hamid"
+    "author": "Vikram Hamid",
+    "isFavorite": false
   },
   {
     "title": "A History of Sorrow",
-    "author": "Colson Twan Eng"
+    "author": "Colson Twan Eng",
+    "isFavorite": false
   },
   {
     "title": "Clockwork of Accra",
-    "author": "Zadie Kincaid"
+    "author": "Zadie Kincaid",
+    "isFavorite": false
   },
   {
     "title": "Yuki and the Wild Desert",
-    "author": "Ocean Naipaul"
+    "author": "Ocean Naipaul",
+    "isFavorite": false
   },
   {
     "title": "When the Desert Waits",
-    "author": "Hiro Roy"
+    "author": "Hiro Roy",
+    "isFavorite": false
   },
   {
     "title": "Savage Distance",
-    "author": "Chinua Smith"
+    "author": "Chinua Smith",
+    "isFavorite": false
   },
   {
     "title": "When the Carnival Sleeps",
-    "author": "Chinua Emezi"
+    "author": "Chinua Emezi",
+    "isFavorite": false
   },
   {
     "title": "The Tender City",
-    "author": "Ngozi McCarthy"
+    "author": "Ngozi McCarthy",
+    "isFavorite": false
   },
   {
     "title": "Letters from Boston",
-    "author": "Chimamanda Danticat"
+    "author": "Chimamanda Danticat",
+    "isFavorite": false
   },
   {
     "title": "Notes on Hope and Fire",
-    "author": "Salman Banerjee"
+    "author": "Salman Banerjee",
+    "isFavorite": false
   },
   {
     "title": "Notes on Fire and Longing",
-    "author": "Jhumpa Whitehead"
+    "author": "Jhumpa Whitehead",
+    "isFavorite": false
   },
   {
     "title": "The Shattered Ocean",
-    "author": "Tariq Selvadurai"
+    "author": "Tariq Selvadurai",
+    "isFavorite": false
   },
   {
     "title": "Journey of Dublin",
-    "author": "Edwidge Patel"
+    "author": "Edwidge Patel",
+    "isFavorite": false
   },
   {
     "title": "A Threshold in Colombo",
-    "author": "Kazuo Banerjee"
+    "author": "Kazuo Banerjee",
+    "isFavorite": false
   },
   {
     "title": "When the Secret Breaks",
-    "author": "Brigid Roy"
+    "author": "Brigid Roy",
+    "isFavorite": false
   },
   {
     "title": "Rising Time",
-    "author": "Wole Vuong"
+    "author": "Wole Vuong",
+    "isFavorite": false
   },
   {
     "title": "The Forgotten Winter of Nairobi",
-    "author": "Trevor Twan Eng"
+    "author": "Trevor Twan Eng",
+    "isFavorite": false
   },
   {
     "title": "The Fading Voyage",
-    "author": "Kazuo Doyle"
+    "author": "Kazuo Doyle",
+    "isFavorite": false
   },
   {
     "title": "When the Mirror Sleeps",
-    "author": "Chimamanda Kureishi"
+    "author": "Chimamanda Kureishi",
+    "isFavorite": false
   },
   {
     "title": "Letters from Manila",
-    "author": "Ngozi Emezi"
+    "author": "Ngozi Emezi",
+    "isFavorite": false
   },
   {
     "title": "Ledger of Calcutta",
-    "author": "Cormac Noah"
+    "author": "Cormac Noah",
+    "isFavorite": false
   },
   {
     "title": "The Ember Keeper",
-    "author": "Kazuo Murakami"
+    "author": "Kazuo Murakami",
+    "isFavorite": false
   },
   {
     "title": "A Secret in Accra",
-    "author": "Hanif Roy"
+    "author": "Hanif Roy",
+    "isFavorite": false
   },
   {
     "title": "Hidden Grief",
-    "author": "Bernardine Wainaina"
+    "author": "Bernardine Wainaina",
+    "isFavorite": false
   },
   {
     "title": "The Harbor Keeper",
-    "author": "Ngozi Lee"
+    "author": "Ngozi Lee",
+    "isFavorite": false
   },
   {
     "title": "Pale Mercy",
-    "author": "Trevor Desai"
+    "author": "Trevor Desai",
+    "isFavorite": false
   },
   {
     "title": "Vineyard of Kingston",
-    "author": "Olivia Cole"
+    "author": "Olivia Cole",
+    "isFavorite": false
   },
   {
     "title": "Between Brooklyn and Reykjavik",
-    "author": "Ben Smith"
+    "author": "Ben Smith",
+    "isFavorite": false
   },
   {
     "title": "The Lonely Mountain of Singapore",
-    "author": "Min Jin Selvadurai"
+    "author": "Min Jin Selvadurai",
+    "isFavorite": false
   },
   {
     "title": "Inheritance of Karachi",
-    "author": "Cormac Whitehead"
+    "author": "Cormac Whitehead",
+    "isFavorite": false
   },
   {
     "title": "Between Toronto and Sydney",
-    "author": "Wole McCarthy"
+    "author": "Wole McCarthy",
+    "isFavorite": false
   },
   {
     "title": "A Vineyard in Accra",
-    "author": "Imbolo Mensah"
+    "author": "Imbolo Mensah",
+    "isFavorite": false
   },
   {
     "title": "Letters from Mumbai",
-    "author": "Hilary Twan Eng"
+    "author": "Hilary Twan Eng",
+    "isFavorite": false
   },
   {
     "title": "Notes on Light and Hunger",
-    "author": "Kiran Noah"
+    "author": "Kiran Noah",
+    "isFavorite": false
   },
   {
     "title": "A Marketplace in Auckland",
-    "author": "Cormac Murakami"
+    "author": "Cormac Murakami",
+    "isFavorite": false
   },
   {
     "title": "Promise of Boston",
-    "author": "Sofia Selvadurai"
+    "author": "Sofia Selvadurai",
+    "isFavorite": false
   },
   {
     "title": "When the Frontier Burns",
-    "author": "Cormac O'Brien"
+    "author": "Cormac O'Brien",
+    "isFavorite": false
   },
   {
     "title": "The Ancient Horizon of Lagos",
-    "author": "Mohsin James"
+    "author": "Mohsin James",
+    "isFavorite": false
   },
   {
     "title": "Letters from Glasgow",
-    "author": "Chimamanda Mbue"
+    "author": "Chimamanda Mbue",
+    "isFavorite": false
   },
   {
     "title": "Broken Dust",
-    "author": "Salman O'Brien"
+    "author": "Salman O'Brien",
+    "isFavorite": false
   },
   {
     "title": "Beatrice's Carnival",
-    "author": "Hiro Mbue"
+    "author": "Hiro Mbue",
+    "isFavorite": false
   },
   {
     "title": "Hassan's River",
-    "author": "Salman Wainaina"
+    "author": "Salman Wainaina",
+    "isFavorite": false
   },
   {
     "title": "Between Calcutta and Reykjavik",
-    "author": "Hanif Lahiri"
+    "author": "Hanif Lahiri",
+    "isFavorite": false
   },
   {
     "title": "A History of Distance",
-    "author": "Yaa Evaristo"
+    "author": "Yaa Evaristo",
+    "isFavorite": false
   },
   {
     "title": "Adaeze's Vineyard",
-    "author": "Bernardine Selvadurai"
+    "author": "Bernardine Selvadurai",
+    "isFavorite": false
   },
   {
     "title": "The Ember of Wonder",
-    "author": "Roddy O'Brien"
+    "author": "Roddy O'Brien",
+    "isFavorite": false
   },
   {
     "title": "The Distant Mirror",
-    "author": "Hiro Evaristo"
+    "author": "Hiro Evaristo",
+    "isFavorite": false
   },
   {
     "title": "The Midnight Lighthouse",
-    "author": "Edwidge James"
+    "author": "Edwidge James",
+    "isFavorite": false
   },
   {
     "title": "A Mountain in Singapore",
-    "author": "Anita Murakami"
+    "author": "Anita Murakami",
+    "isFavorite": false
   },
   {
     "title": "The House on Threshold Street",
-    "author": "Anita O'Brien"
+    "author": "Anita O'Brien",
+    "isFavorite": false
   },
   {
     "title": "Between Nairobi and Auckland",
-    "author": "Olivia Noah"
+    "author": "Olivia Noah",
+    "isFavorite": false
   },
   {
     "title": "The House on Inheritance Lane",
-    "author": "Anita Achebe"
+    "author": "Anita Achebe",
+    "isFavorite": false
   },
   {
     "title": "When the Crown Sleeps",
-    "author": "Aravind Naipaul"
+    "author": "Aravind Naipaul",
+    "isFavorite": false
   },
   {
     "title": "Notes on Distance and Longing",
-    "author": "Brigid Banerjee"
+    "author": "Brigid Banerjee",
+    "isFavorite": false
   },
   {
     "title": "Femi's Window",
-    "author": "Sean Cole"
+    "author": "Sean Cole",
+    "isFavorite": false
   },
   {
     "title": "When the Window Sleeps",
-    "author": "Hiro Twan Eng"
+    "author": "Hiro Twan Eng",
+    "isFavorite": false
   },
   {
     "title": "Thomas and the Northern Threshold",
-    "author": "Teju Noah"
+    "author": "Teju Noah",
+    "isFavorite": false
   },
   {
     "title": "Secret of Kingston",
-    "author": "Yaa Wainaina"
+    "author": "Yaa Wainaina",
+    "isFavorite": false
   },
   {
     "title": "Tide of Reykjavik",
-    "author": "Imbolo Adichie"
+    "author": "Imbolo Adichie",
+    "isFavorite": false
   },
   {
     "title": "The House on Tide Hill",
-    "author": "Chimamanda Gyasi"
+    "author": "Chimamanda Gyasi",
+    "isFavorite": false
   },
   {
     "title": "The House on Lighthouse Hill",
-    "author": "James Roy"
+    "author": "James Roy",
+    "isFavorite": false
   },
   {
     "title": "The Broken Lighthouse of Karachi",
-    "author": "Hanif McCarthy"
+    "author": "Hanif McCarthy",
+    "isFavorite": false
   },
   {
     "title": "Amara's Ledger",
-    "author": "Bernardine Selvadurai"
+    "author": "Bernardine Selvadurai",
+    "isFavorite": false
   },
   {
     "title": "A History of Memory",
-    "author": "Roddy Rushdie"
+    "author": "Roddy Rushdie",
+    "isFavorite": false
   },
   {
     "title": "When the Ledger Burns",
-    "author": "Ocean Doyle"
+    "author": "Ocean Doyle",
+    "isFavorite": false
   },
   {
     "title": "A Bridge in Sydney",
-    "author": "Salman Mbue"
+    "author": "Salman Mbue",
+    "isFavorite": false
   },
   {
     "title": "Yuki and the Scarlet Throne",
-    "author": "Colson Ishiguro"
+    "author": "Colson Ishiguro",
+    "isFavorite": false
   },
   {
     "title": "The Crimson Window of Lagos",
-    "author": "Vikram Smith"
+    "author": "Vikram Smith",
+    "isFavorite": false
   },
   {
     "title": "A Harbor in Kingston",
-    "author": "Cormac Okafor"
+    "author": "Cormac Okafor",
+    "isFavorite": false
   },
   {
     "title": "Bridge of Belfast",
-    "author": "Olivia Wainaina"
+    "author": "Olivia Wainaina",
+    "isFavorite": false
   },
   {
     "title": "The Crown Keeper",
-    "author": "Hiro Roy"
+    "author": "Hiro Roy",
+    "isFavorite": false
   },
   {
     "title": "The Sunken Confession of Dublin",
-    "author": "Liam Lahiri"
+    "author": "Liam Lahiri",
+    "isFavorite": false
   },
   {
     "title": "Mei and the Iron Secret",
-    "author": "Colson Vuong"
+    "author": "Colson Vuong",
+    "isFavorite": false
   },
   {
     "title": "Thomas and the Savage Marketplace",
-    "author": "Edwidge Mantel"
+    "author": "Edwidge Mantel",
+    "isFavorite": false
   },
   {
     "title": "The Reckoning Keeper",
-    "author": "Hanif Evaristo"
+    "author": "Hanif Evaristo",
+    "isFavorite": false
   },
   {
     "title": "Shattered Silence",
-    "author": "Sean Naipaul"
+    "author": "Sean Naipaul",
+    "isFavorite": false
   },
   {
     "title": "Winter of Accra",
-    "author": "Kazuo Roy"
+    "author": "Kazuo Roy",
+    "isFavorite": false
   },
   {
     "title": "The Orchard Keeper",
-    "author": "Wole Achebe"
+    "author": "Wole Achebe",
+    "isFavorite": false
   },
   {
     "title": "When the Ledger Returns",
-    "author": "Olivia Naipaul"
+    "author": "Olivia Naipaul",
+    "isFavorite": false
   },
   {
     "title": "Wandering Distance",
-    "author": "Chinua Noah"
+    "author": "Chinua Noah",
+    "isFavorite": false
   },
   {
     "title": "The House on Bridge Hill",
-    "author": "Mohsin McCarthy"
+    "author": "Mohsin McCarthy",
+    "isFavorite": false
   },
   {
     "title": "Between Lisbon and Singapore",
-    "author": "Cormac Okafor"
+    "author": "Cormac Okafor",
+    "isFavorite": false
   },
   {
     "title": "Sanctuary of Accra",
-    "author": "Sofia Lahiri"
+    "author": "Sofia Lahiri",
+    "isFavorite": false
   },
   {
     "title": "The Lonely Mountain of Reykjavik",
-    "author": "Roddy Mantel"
+    "author": "Roddy Mantel",
+    "isFavorite": false
   },
   {
     "title": "A History of Silence",
-    "author": "Roddy Danticat"
+    "author": "Roddy Danticat",
+    "isFavorite": false
   },
   {
     "title": "Shattered Light",
-    "author": "Maya Wainaina"
+    "author": "Maya Wainaina",
+    "isFavorite": false
   },
   {
     "title": "Eternal Wonder",
-    "author": "Hiro Lee"
+    "author": "Hiro Lee",
+    "isFavorite": false
   },
   {
     "title": "The Fading Lantern",
-    "author": "Brigid Nguyen"
+    "author": "Brigid Nguyen",
+    "isFavorite": false
   },
   {
     "title": "The Storm of Light",
-    "author": "Ocean Desai"
+    "author": "Ocean Desai",
+    "isFavorite": false
   },
   {
     "title": "The Crimson Ledger",
-    "author": "Anita Ishiguro"
+    "author": "Anita Ishiguro",
+    "isFavorite": false
   },
   {
     "title": "Lighthouse of Marrakech",
-    "author": "Trevor Doyle"
+    "author": "Trevor Doyle",
+    "isFavorite": false
   },
   {
     "title": "Letters from Accra",
-    "author": "Min Jin James"
+    "author": "Min Jin James",
+    "isFavorite": false
   },
   {
     "title": "Wild Freedom",
-    "author": "Min Jin Kureishi"
+    "author": "Min Jin Kureishi",
+    "isFavorite": false
   },
   {
     "title": "Letters from Calcutta",
-    "author": "Hanif Evaristo"
+    "author": "Hanif Evaristo",
+    "isFavorite": false
   },
   {
     "title": "Between Nairobi and Manila",
-    "author": "Chinua Gyasi"
+    "author": "Chinua Gyasi",
+    "isFavorite": false
   },
   {
     "title": "When the Mountain Breaks",
-    "author": "Chinua Selvadurai"
+    "author": "Chinua Selvadurai",
+    "isFavorite": false
   },
   {
     "title": "Beatrice's Summer",
-    "author": "Tariq Mantel"
+    "author": "Tariq Mantel",
+    "isFavorite": false
   },
   {
     "title": "The Ledger of Freedom",
-    "author": "Trevor Wainaina"
+    "author": "Trevor Wainaina",
+    "isFavorite": false
   },
   {
     "title": "The Compass of Hunger",
-    "author": "Isabel Hamid"
+    "author": "Isabel Hamid",
+    "isFavorite": false
   },
   {
     "title": "Femi and the Distant Ashes",
-    "author": "Zadie Cole"
+    "author": "Zadie Cole",
+    "isFavorite": false
   },
   {
     "title": "The Threshold Keeper",
-    "author": "Roddy Emezi"
+    "author": "Roddy Emezi",
+    "isFavorite": false
   },
   {
     "title": "A Promise in Glasgow",
-    "author": "Cormac Seth"
+    "author": "Cormac Seth",
+    "isFavorite": false
   },
   {
     "title": "The Tide of Salt",
-    "author": "Kazuo Okri"
+    "author": "Kazuo Okri",
+    "isFavorite": false
   },
   {
     "title": "Nadia and the Fading River",
-    "author": "Isabel Patel"
+    "author": "Isabel Patel",
+    "isFavorite": false
   },
   {
     "title": "Letters from Nairobi",
-    "author": "Zadie Cole"
+    "author": "Zadie Cole",
+    "isFavorite": false
   },
   {
     "title": "Esther and the Drowned Ember",
-    "author": "Sean Lahiri"
+    "author": "Sean Lahiri",
+    "isFavorite": false
   },
   {
     "title": "The Forgotten Cathedral",
-    "author": "Imbolo James"
+    "author": "Imbolo James",
+    "isFavorite": false
   },
   {
     "title": "The House on Mountain Hill",
-    "author": "Colson Nguyen"
+    "author": "Colson Nguyen",
+    "isFavorite": false
   },
   {
     "title": "The Scarlet Secret of Toronto",
-    "author": "Hanif Achebe"
+    "author": "Hanif Achebe",
+    "isFavorite": false
   },
   {
     "title": "Aisha's Threshold",
-    "author": "Hanif Nguyen"
+    "author": "Hanif Nguyen",
+    "isFavorite": false
   },
   {
     "title": "The House on Ashes Lane",
-    "author": "Wole Achebe"
+    "author": "Wole Achebe",
+    "isFavorite": false
   },
   {
     "title": "Drowned Silence",
-    "author": "Hilary Rushdie"
+    "author": "Hilary Rushdie",
+    "isFavorite": false
   },
   {
     "title": "The Bridge Keeper",
-    "author": "Olivia Okafor"
+    "author": "Olivia Okafor",
+    "isFavorite": false
   },
   {
     "title": "Crimson Hunger",
-    "author": "Kazuo Banerjee"
+    "author": "Kazuo Banerjee",
+    "isFavorite": false
   },
   {
     "title": "Notes on Freedom and Freedom",
-    "author": "Kiran Whitehead"
+    "author": "Kiran Whitehead",
+    "isFavorite": false
   },
   {
     "title": "Between Auckland and Singapore",
-    "author": "Maya Lee"
+    "author": "Maya Lee",
+    "isFavorite": false
   },
   {
     "title": "Hassan's Summer",
-    "author": "Colson Mbue"
+    "author": "Colson Mbue",
+    "isFavorite": false
   },
   {
     "title": "Wild Patience",
-    "author": "Chimamanda Gyasi"
+    "author": "Chimamanda Gyasi",
+    "isFavorite": false
   },
   {
     "title": "A River in Vancouver",
-    "author": "Yaa O'Brien"
+    "author": "Yaa O'Brien",
+    "isFavorite": false
   },
   {
     "title": "When the Ashes Sleeps",
-    "author": "Kazuo Murakami"
+    "author": "Kazuo Murakami",
+    "isFavorite": false
   },
   {
     "title": "Between Manila and Auckland",
-    "author": "Min Jin Doyle"
+    "author": "Min Jin Doyle",
+    "isFavorite": false
   },
   {
     "title": "The Sunken Vineyard",
-    "author": "Zadie Ishiguro"
+    "author": "Zadie Ishiguro",
+    "isFavorite": false
   },
   {
     "title": "The Crimson Harbor",
-    "author": "Vikram McCarthy"
+    "author": "Vikram McCarthy",
+    "isFavorite": false
   },
   {
     "title": "The Carnival of Distance",
-    "author": "Zadie Murakami"
+    "author": "Zadie Murakami",
+    "isFavorite": false
   },
   {
     "title": "Silent Memory",
-    "author": "Anita Banerjee"
+    "author": "Anita Banerjee",
+    "isFavorite": false
   },
   {
     "title": "The Hourglass of Light",
-    "author": "Brigid Rushdie"
+    "author": "Brigid Rushdie",
+    "isFavorite": false
   },
   {
     "title": "The Falling Garden",
-    "author": "Chinua Cole"
+    "author": "Chinua Cole",
+    "isFavorite": false
   },
   {
     "title": "A Compass in Cape Town",
-    "author": "Hiro Naipaul"
+    "author": "Hiro Naipaul",
+    "isFavorite": false
   },
   {
     "title": "Letters from Cairo",
-    "author": "James Patel"
+    "author": "James Patel",
+    "isFavorite": false
   },
   {
     "title": "The Echo of Light",
-    "author": "Bernardine Roy"
+    "author": "Bernardine Roy",
+    "isFavorite": false
   },
   {
     "title": "Notes on Distance and Distance",
-    "author": "Maya Vuong"
+    "author": "Maya Vuong",
+    "isFavorite": false
   },
   {
     "title": "The Lighthouse Keeper",
-    "author": "Tan Okri"
+    "author": "Tan Okri",
+    "isFavorite": false
   },
   {
     "title": "Hassan's Reckoning",
-    "author": "Kiran Nguyen"
+    "author": "Kiran Nguyen",
+    "isFavorite": false
   },
   {
     "title": "The House on Shadow Hill",
-    "author": "Ben Kureishi"
+    "author": "Ben Kureishi",
+    "isFavorite": false
   },
   {
     "title": "Between Edinburgh and Reykjavik",
-    "author": "Akwaeke Noah"
+    "author": "Akwaeke Noah",
+    "isFavorite": false
   },
   {
     "title": "When the Garden Waits",
-    "author": "Sean Evaristo"
+    "author": "Sean Evaristo",
+    "isFavorite": false
   },
   {
     "title": "The Inheritance Keeper",
-    "author": "Vikram Murakami"
+    "author": "Vikram Murakami",
+    "isFavorite": false
   },
   {
     "title": "Notes on Salt and Wonder",
-    "author": "Sofia Adichie"
+    "author": "Sofia Adichie",
+    "isFavorite": false
   },
   {
     "title": "A Confession in Vancouver",
-    "author": "Jhumpa Twan Eng"
+    "author": "Jhumpa Twan Eng",
+    "isFavorite": false
   },
   {
     "title": "A History of Hunger",
-    "author": "Trevor Mensah"
+    "author": "Trevor Mensah",
+    "isFavorite": false
   },
   {
     "title": "Henry's Ocean",
-    "author": "Brigid McCarthy"
+    "author": "Brigid McCarthy",
+    "isFavorite": false
   },
   {
     "title": "Joseph and the Whispering Cathedral",
-    "author": "Colson McCarthy"
+    "author": "Colson McCarthy",
+    "isFavorite": false
   },
   {
     "title": "Letters from Edinburgh",
-    "author": "Anita Hamid"
+    "author": "Anita Hamid",
+    "isFavorite": false
   },
   {
     "title": "Between Marrakech and Vancouver",
-    "author": "Marlon Mbue"
+    "author": "Marlon Mbue",
+    "isFavorite": false
   },
   {
     "title": "Voyage of Colombo",
-    "author": "Ngozi Roy"
+    "author": "Ngozi Roy",
+    "isFavorite": false
   },
   {
     "title": "Golden Longing",
-    "author": "Arundhati Hamid"
+    "author": "Arundhati Hamid",
+    "isFavorite": false
   },
   {
     "title": "Between Lagos and Sydney",
-    "author": "Vikram Kureishi"
+    "author": "Vikram Kureishi",
+    "isFavorite": false
   },
   {
     "title": "Notes on Light and Rain",
-    "author": "Sofia Banerjee"
+    "author": "Sofia Banerjee",
+    "isFavorite": false
   },
   {
     "title": "Journey of Lisbon",
-    "author": "Liam Adichie"
+    "author": "Liam Adichie",
+    "isFavorite": false
   },
   {
     "title": "The House on Sanctuary Road",
-    "author": "Chimamanda Selvadurai"
+    "author": "Chimamanda Selvadurai",
+    "isFavorite": false
   },
   {
     "title": "Thomas's Lantern",
-    "author": "Jhumpa Danticat"
+    "author": "Jhumpa Danticat",
+    "isFavorite": false
   },
   {
     "title": "Between Boston and Reykjavik",
-    "author": "Roddy Doyle"
+    "author": "Roddy Doyle",
+    "isFavorite": false
   },
   {
     "title": "The Golden Throne of Nairobi",
-    "author": "Salman Mbue"
+    "author": "Salman Mbue",
+    "isFavorite": false
   },
   {
     "title": "Notes on Dust and Wonder",
-    "author": "Trevor James"
+    "author": "Trevor James",
+    "isFavorite": false
   },
   {
     "title": "Between Mumbai and Edinburgh",
-    "author": "Yaa Danticat"
+    "author": "Yaa Danticat",
+    "isFavorite": false
   },
   {
     "title": "When the Bridge Falls",
-    "author": "Hiro Okri"
+    "author": "Hiro Okri",
+    "isFavorite": false
   },
   {
     "title": "Savage Memory",
-    "author": "Yaa Cole"
+    "author": "Yaa Cole",
+    "isFavorite": false
   },
   {
     "title": "The Wild Wilderness of Cape Town",
-    "author": "Akwaeke Adichie"
+    "author": "Akwaeke Adichie",
+    "isFavorite": false
   },
   {
     "title": "Notes on Time and Memory",
-    "author": "Wole Ishiguro"
+    "author": "Wole Ishiguro",
+    "isFavorite": false
   },
   {
     "title": "The Mirror of Solitude",
-    "author": "Min Jin Gyasi"
+    "author": "Min Jin Gyasi",
+    "isFavorite": false
   },
   {
     "title": "Glass Dust",
-    "author": "Sofia Naipaul"
+    "author": "Sofia Naipaul",
+    "isFavorite": false
   },
   {
     "title": "The Empty Lighthouse of Dublin",
-    "author": "Min Jin Doyle"
+    "author": "Min Jin Doyle",
+    "isFavorite": false
   },
   {
     "title": "Between Brooklyn and Glasgow",
-    "author": "Trevor Murakami"
+    "author": "Trevor Murakami",
+    "isFavorite": false
   },
   {
     "title": "Samuel and the Distant Horizon",
-    "author": "Mohsin Kincaid"
+    "author": "Mohsin Kincaid",
+    "isFavorite": false
   },
   {
     "title": "Echo of Boston",
-    "author": "Bernardine Patel"
+    "author": "Bernardine Patel",
+    "isFavorite": false
   },
   {
     "title": "Esther's River",
-    "author": "Akwaeke Noah"
+    "author": "Akwaeke Noah",
+    "isFavorite": false
   },
   {
     "title": "Voyage of Belfast",
-    "author": "Imbolo Adichie"
+    "author": "Imbolo Adichie",
+    "isFavorite": false
   },
   {
     "title": "The Frozen Vineyard",
-    "author": "Marlon Vuong"
+    "author": "Marlon Vuong",
+    "isFavorite": false
   },
   {
     "title": "When the Cathedral Breaks",
-    "author": "Wole O'Brien"
+    "author": "Wole O'Brien",
+    "isFavorite": false
   },
   {
     "title": "Restless Dust",
-    "author": "Brigid Noah"
+    "author": "Brigid Noah",
+    "isFavorite": false
   },
   {
     "title": "The Wandering Compass of Mumbai",
-    "author": "Tan Mbue"
+    "author": "Tan Mbue",
+    "isFavorite": false
   },
   {
     "title": "The Sanctuary of Mercy",
-    "author": "Hanif Rushdie"
+    "author": "Hanif Rushdie",
+    "isFavorite": false
   },
   {
     "title": "Walter's Echo",
-    "author": "Chimamanda Hamid"
+    "author": "Chimamanda Hamid",
+    "isFavorite": false
   },
   {
     "title": "When the Ashes Breaks",
-    "author": "Brigid O'Brien"
+    "author": "Brigid O'Brien",
+    "isFavorite": false
   },
   {
     "title": "A Vineyard in Lagos",
-    "author": "Imbolo Emezi"
+    "author": "Imbolo Emezi",
+    "isFavorite": false
   },
   {
     "title": "Mountain of Edinburgh",
-    "author": "Kiran Doyle"
+    "author": "Kiran Doyle",
+    "isFavorite": false
   },
   {
     "title": "The House on Crown Lane",
-    "author": "Akwaeke Cole"
+    "author": "Akwaeke Cole",
+    "isFavorite": false
   },
   {
     "title": "A Compass in Mumbai",
-    "author": "Min Jin Desai"
+    "author": "Min Jin Desai",
+    "isFavorite": false
   },
   {
     "title": "The Forgotten Summer of Mumbai",
-    "author": "Arundhati O'Brien"
+    "author": "Arundhati O'Brien",
+    "isFavorite": false
   },
   {
     "title": "Aisha's Letter",
-    "author": "Kiran Whitehead"
+    "author": "Kiran Whitehead",
+    "isFavorite": false
   },
   {
     "title": "The Threshold of Salt",
-    "author": "Colson Achebe"
+    "author": "Colson Achebe",
+    "isFavorite": false
   },
   {
     "title": "Notes on Freedom and Grief",
-    "author": "Yaa Wainaina"
+    "author": "Yaa Wainaina",
+    "isFavorite": false
   },
   {
     "title": "Wild Sorrow",
-    "author": "Mohsin Smith"
+    "author": "Mohsin Smith",
+    "isFavorite": false
   },
   {
     "title": "The Promise Keeper",
-    "author": "Anita Ishiguro"
+    "author": "Anita Ishiguro",
+    "isFavorite": false
   },
   {
     "title": "Letters from Karachi",
-    "author": "Trevor Achebe"
+    "author": "Trevor Achebe",
+    "isFavorite": false
   },
   {
     "title": "A History of Time",
-    "author": "Imbolo Mbue"
+    "author": "Imbolo Mbue",
+    "isFavorite": false
   },
   {
     "title": "The Drowned Wilderness of Lisbon",
-    "author": "Sofia Twan Eng"
+    "author": "Sofia Twan Eng",
+    "isFavorite": false
   },
   {
     "title": "Between Brooklyn and Auckland",
-    "author": "Teju Danticat"
+    "author": "Teju Danticat",
+    "isFavorite": false
   },
   {
     "title": "Between Auckland and Reykjavik",
-    "author": "Bernardine Patel"
+    "author": "Bernardine Patel",
+    "isFavorite": false
   },
   {
     "title": "The Ember of Dust",
-    "author": "Hiro Mensah"
+    "author": "Hiro Mensah",
+    "isFavorite": false
   },
   {
     "title": "The House on Ember Lane",
-    "author": "Kofi Mensah"
+    "author": "Kofi Mensah",
+    "isFavorite": false
   },
   {
     "title": "Mei's Summer",
-    "author": "Liam Mantel"
+    "author": "Liam Mantel",
+    "isFavorite": false
   },
   {
     "title": "Letters from Havana",
-    "author": "Olivia Lahiri"
+    "author": "Olivia Lahiri",
+    "isFavorite": false
   },
   {
     "title": "A Marketplace in Cairo",
-    "author": "Aravind Cole"
+    "author": "Aravind Cole",
+    "isFavorite": false
   },
   {
     "title": "The Pale Inheritance",
-    "author": "Sean Kureishi"
+    "author": "Sean Kureishi",
+    "isFavorite": false
   },
   {
     "title": "Bridge of Sydney",
-    "author": "Colson Emezi"
+    "author": "Colson Emezi",
+    "isFavorite": false
   },
   {
     "title": "Beatrice's Forest",
-    "author": "Zadie O'Brien"
+    "author": "Zadie O'Brien",
+    "isFavorite": false
   },
   {
     "title": "Hassan and the Sunken Horizon",
-    "author": "Kazuo Gyasi"
+    "author": "Kazuo Gyasi",
+    "isFavorite": false
   },
   {
     "title": "Samuel and the Stolen Frontier",
-    "author": "Edwidge Kincaid"
+    "author": "Edwidge Kincaid",
+    "isFavorite": false
   },
   {
     "title": "The Glass Frontier",
-    "author": "Aravind Okafor"
+    "author": "Aravind Okafor",
+    "isFavorite": false
   },
   {
     "title": "Ishaan's Mirror",
-    "author": "Kiran Mbue"
+    "author": "Kiran Mbue",
+    "isFavorite": false
   },
   {
     "title": "Drowned Solitude",
-    "author": "James Adebayo"
+    "author": "James Adebayo",
+    "isFavorite": false
   },
   {
     "title": "The Lonely Wilderness of Kingston",
-    "author": "Hilary Seth"
+    "author": "Hilary Seth",
+    "isFavorite": false
   },
   {
     "title": "Notes on Mercy and Longing",
-    "author": "Imbolo Twan Eng"
+    "author": "Imbolo Twan Eng",
+    "isFavorite": false
   },
   {
     "title": "When the Carnival Sings",
-    "author": "Salman Naipaul"
+    "author": "Salman Naipaul",
+    "isFavorite": false
   },
   {
     "title": "The House on Horizon Street",
-    "author": "Chinua Gyasi"
+    "author": "Chinua Gyasi",
+    "isFavorite": false
   },
   {
     "title": "When the Reckoning Breaks",
-    "author": "James Naipaul"
+    "author": "James Naipaul",
+    "isFavorite": false
   },
   {
     "title": "Frontier of Toronto",
-    "author": "Arundhati Danticat"
+    "author": "Arundhati Danticat",
+    "isFavorite": false
   },
   {
     "title": "A Lighthouse in Glasgow",
-    "author": "Yaa Smith"
+    "author": "Yaa Smith",
+    "isFavorite": false
   },
   {
     "title": "The Midnight Garden of Dublin",
-    "author": "Jhumpa Ishiguro"
+    "author": "Jhumpa Ishiguro",
+    "isFavorite": false
   },
   {
     "title": "Velvet Rain",
-    "author": "Sean Mensah"
+    "author": "Sean Mensah",
+    "isFavorite": false
   },
   {
     "title": "The Desert of Distance",
-    "author": "Teju Naipaul"
+    "author": "Teju Naipaul",
+    "isFavorite": false
   },
   {
     "title": "A History of Salt",
-    "author": "Colson Desai"
+    "author": "Colson Desai",
+    "isFavorite": false
   },
   {
     "title": "Rosa's Bridge",
-    "author": "Sofia Wainaina"
+    "author": "Sofia Wainaina",
+    "isFavorite": false
   },
   {
     "title": "The Journey Keeper",
-    "author": "Maya Naipaul"
+    "author": "Maya Naipaul",
+    "isFavorite": false
   },
   {
     "title": "The Cathedral of Grief",
-    "author": "Cormac Selvadurai"
+    "author": "Cormac Selvadurai",
+    "isFavorite": false
   },
   {
     "title": "Notes on Salt and Silence",
-    "author": "Yaa Twan Eng"
+    "author": "Yaa Twan Eng",
+    "isFavorite": false
   },
   {
     "title": "The Midnight Summer",
-    "author": "Chinua Adebayo"
+    "author": "Chinua Adebayo",
+    "isFavorite": false
   },
   {
     "title": "Notes on Longing and Freedom",
-    "author": "Arundhati Roy"
+    "author": "Arundhati Roy",
+    "isFavorite": false
   },
   {
     "title": "Notes on Fire and Faith",
-    "author": "Ngozi Roy"
+    "author": "Ngozi Roy",
+    "isFavorite": false
   },
   {
     "title": "When the Reckoning Waits",
-    "author": "Kofi Okri"
+    "author": "Kofi Okri",
+    "isFavorite": false
   },
   {
     "title": "A Cathedral in Nairobi",
-    "author": "Cormac Seth"
+    "author": "Cormac Seth",
+    "isFavorite": false
   },
   {
     "title": "Notes on Patience and Solitude",
-    "author": "Mohsin Soyinka"
+    "author": "Mohsin Soyinka",
+    "isFavorite": false
   },
   {
     "title": "Notes on Time and Wonder",
-    "author": "Aravind Banerjee"
+    "author": "Aravind Banerjee",
+    "isFavorite": false
   },
   {
     "title": "The Tender River",
-    "author": "Yaa Seth"
+    "author": "Yaa Seth",
+    "isFavorite": false
   },
   {
     "title": "A Threshold in Belfast",
-    "author": "James Mbue"
+    "author": "James Mbue",
+    "isFavorite": false
   },
   {
     "title": "When the Storm Breaks",
-    "author": "Bernardine O'Brien"
+    "author": "Bernardine O'Brien",
+    "isFavorite": false
   },
   {
     "title": "When the Tide Sleeps",
-    "author": "Kiran Ishiguro"
+    "author": "Kiran Ishiguro",
+    "isFavorite": false
   },
   {
     "title": "The Drowned Crown of Mumbai",
-    "author": "Roddy Mbue"
+    "author": "Roddy Mbue",
+    "isFavorite": false
   },
   {
     "title": "When the Confession Sings",
-    "author": "Edwidge Cole"
+    "author": "Edwidge Cole",
+    "isFavorite": false
   },
   {
     "title": "Letters from Singapore",
-    "author": "Anita Mantel"
+    "author": "Anita Mantel",
+    "isFavorite": false
   },
   {
     "title": "Between Cairo and Glasgow",
-    "author": "Salman Gyasi"
+    "author": "Salman Gyasi",
+    "isFavorite": false
   },
   {
     "title": "The Quiet Clockwork of Karachi",
-    "author": "Kazuo Cole"
+    "author": "Kazuo Cole",
+    "isFavorite": false
   },
   {
     "title": "Notes on Mercy and Distance",
-    "author": "Anita Seth"
+    "author": "Anita Seth",
+    "isFavorite": false
   },
   {
     "title": "A History of Grief",
-    "author": "Jhumpa Rushdie"
+    "author": "Jhumpa Rushdie",
+    "isFavorite": false
   },
   {
     "title": "Priya and the Sacred Desert",
-    "author": "Brigid Mantel"
+    "author": "Brigid Mantel",
+    "isFavorite": false
   },
   {
     "title": "The House on Carnival Street",
-    "author": "Hilary Ishiguro"
+    "author": "Hilary Ishiguro",
+    "isFavorite": false
   },
   {
     "title": "The House on Inheritance Hill",
-    "author": "Vikram Gyasi"
+    "author": "Vikram Gyasi",
+    "isFavorite": false
   },
   {
     "title": "Daniel's Winter",
-    "author": "Maya Patel"
+    "author": "Maya Patel",
+    "isFavorite": false
   },
   {
     "title": "The Forgotten Orchard",
-    "author": "Kiran Emezi"
+    "author": "Kiran Emezi",
+    "isFavorite": false
   },
   {
     "title": "Notes on Freedom and Patience",
-    "author": "Tan Noah"
+    "author": "Tan Noah",
+    "isFavorite": false
   },
   {
     "title": "A Shadow in Cape Town",
-    "author": "Min Jin Banerjee"
+    "author": "Min Jin Banerjee",
+    "isFavorite": false
   },
   {
     "title": "Eleanor's Summer",
-    "author": "Kofi Nguyen"
+    "author": "Kofi Nguyen",
+    "isFavorite": false
   },
   {
     "title": "Samuel and the Shattered Crown",
-    "author": "Aravind Selvadurai"
+    "author": "Aravind Selvadurai",
+    "isFavorite": false
   },
   {
     "title": "The Window Keeper",
-    "author": "Mohsin Patel"
+    "author": "Mohsin Patel",
+    "isFavorite": false
   },
   {
     "title": "A Mountain in Havana",
-    "author": "Akwaeke Murakami"
+    "author": "Akwaeke Murakami",
+    "isFavorite": false
   },
   {
     "title": "The Stolen Threshold of Cairo",
-    "author": "Hanif Doyle"
+    "author": "Hanif Doyle",
+    "isFavorite": false
   },
   {
     "title": "The Mountain of Solitude",
-    "author": "Min Jin Smith"
+    "author": "Min Jin Smith",
+    "isFavorite": false
   },
   {
     "title": "Kwame's Shadow",
-    "author": "Min Jin O'Brien"
+    "author": "Min Jin O'Brien",
+    "isFavorite": false
   },
   {
     "title": "Notes on Distance and Freedom",
-    "author": "Marlon Kincaid"
+    "author": "Marlon Kincaid",
+    "isFavorite": false
   },
   {
     "title": "A Harbor in Havana",
-    "author": "Tan McCarthy"
+    "author": "Tan McCarthy",
+    "isFavorite": false
   },
   {
     "title": "The House on Summer Road",
-    "author": "Tan Lee"
+    "author": "Tan Lee",
+    "isFavorite": false
   },
   {
     "title": "When the Empire Waits",
-    "author": "Hanif Emezi"
+    "author": "Hanif Emezi",
+    "isFavorite": false
   },
   {
     "title": "A Sanctuary in Karachi",
-    "author": "Akwaeke Ishiguro"
+    "author": "Akwaeke Ishiguro",
+    "isFavorite": false
   },
   {
     "title": "Letter of Edinburgh",
-    "author": "Hiro Adebayo"
+    "author": "Hiro Adebayo",
+    "isFavorite": false
   },
   {
     "title": "The Fading Lighthouse",
-    "author": "Mohsin Adebayo"
+    "author": "Mohsin Adebayo",
+    "isFavorite": false
   },
   {
     "title": "The Throne Keeper",
-    "author": "Teju Seth"
+    "author": "Teju Seth",
+    "isFavorite": false
   },
   {
     "title": "Grace and the Tender Forest",
-    "author": "Salman Banerjee"
+    "author": "Salman Banerjee",
+    "isFavorite": false
   },
   {
     "title": "Notes on Fire and Fire",
-    "author": "Tan Selvadurai"
+    "author": "Tan Selvadurai",
+    "isFavorite": false
   },
   {
     "title": "The Ancient Carnival of Colombo",
-    "author": "James Mantel"
+    "author": "James Mantel",
+    "isFavorite": false
   },
   {
     "title": "Notes on Hope and Hope",
-    "author": "Hanif Okafor"
+    "author": "Hanif Okafor",
+    "isFavorite": false
   },
   {
     "title": "Notes on Time and Longing",
-    "author": "Ben Mantel"
+    "author": "Ben Mantel",
+    "isFavorite": false
   },
   {
     "title": "When the Lighthouse Returns",
-    "author": "Hanif Mbue"
+    "author": "Hanif Mbue",
+    "isFavorite": false
   },
   {
     "title": "The Window of Fire",
-    "author": "Hanif Roy"
+    "author": "Hanif Roy",
+    "isFavorite": false
   },
   {
     "title": "Sanctuary of Cairo",
-    "author": "Bernardine Mensah"
+    "author": "Bernardine Mensah",
+    "isFavorite": false
   },
   {
     "title": "A Tide in Cairo",
-    "author": "Edwidge Cole"
+    "author": "Edwidge Cole",
+    "isFavorite": false
   },
   {
     "title": "Notes on Fire and Hope",
-    "author": "Jhumpa Twan Eng"
+    "author": "Jhumpa Twan Eng",
+    "isFavorite": false
   },
   {
     "title": "The House on Forest Lane",
-    "author": "Jhumpa Cole"
+    "author": "Jhumpa Cole",
+    "isFavorite": false
   },
   {
     "title": "Between Boston and Toronto",
-    "author": "Hilary Cole"
+    "author": "Hilary Cole",
+    "isFavorite": false
   },
   {
     "title": "Grace's Carnival",
-    "author": "Akwaeke McCarthy"
+    "author": "Akwaeke McCarthy",
+    "isFavorite": false
   },
   {
     "title": "A Harbor in Singapore",
-    "author": "Roddy Doyle"
+    "author": "Roddy Doyle",
+    "isFavorite": false
   },
   {
     "title": "The Sunken Sanctuary",
-    "author": "Imbolo Emezi"
+    "author": "Imbolo Emezi",
+    "isFavorite": false
   },
   {
     "title": "A Orchard in Dublin",
-    "author": "Mohsin Okri"
+    "author": "Mohsin Okri",
+    "isFavorite": false
   },
   {
     "title": "Letters from Belfast",
-    "author": "Min Jin Emezi"
+    "author": "Min Jin Emezi",
+    "isFavorite": false
   },
   {
     "title": "A Ledger in Accra",
-    "author": "Edwidge Vuong"
+    "author": "Edwidge Vuong",
+    "isFavorite": false
   },
   {
     "title": "A Reckoning in Manila",
-    "author": "Akwaeke Naipaul"
+    "author": "Akwaeke Naipaul",
+    "isFavorite": false
   },
   {
     "title": "The Hollow Clockwork of Mumbai",
-    "author": "Kiran Mantel"
+    "author": "Kiran Mantel",
+    "isFavorite": false
   },
   {
     "title": "Notes on Time and Time",
-    "author": "Hiro Selvadurai"
+    "author": "Hiro Selvadurai",
+    "isFavorite": false
   },
   {
     "title": "The Falling Sanctuary of Lagos",
-    "author": "Roddy Selvadurai"
+    "author": "Roddy Selvadurai",
+    "isFavorite": false
   },
   {
     "title": "Notes on Faith and Fire",
-    "author": "Kiran Seth"
+    "author": "Kiran Seth",
+    "isFavorite": false
   },
   {
     "title": "The Midnight Confession",
-    "author": "Zadie Danticat"
+    "author": "Zadie Danticat",
+    "isFavorite": false
   },
   {
     "title": "Thomas and the Singing Desert",
-    "author": "Hiro Desai"
+    "author": "Hiro Desai",
+    "isFavorite": false
   },
   {
     "title": "The Burning Mirror of Belfast",
-    "author": "Imbolo Nguyen"
+    "author": "Imbolo Nguyen",
+    "isFavorite": false
   },
   {
     "title": "Walter and the Fading Threshold",
-    "author": "Kiran Wainaina"
+    "author": "Kiran Wainaina",
+    "isFavorite": false
   },
   {
     "title": "The Forest of Patience",
-    "author": "Kofi Adebayo"
+    "author": "Kofi Adebayo",
+    "isFavorite": false
   },
   {
     "title": "Eleanor's Mountain",
-    "author": "Imbolo Rushdie"
+    "author": "Imbolo Rushdie",
+    "isFavorite": false
   },
   {
     "title": "Notes on Time and Light",
-    "author": "Arundhati Banerjee"
+    "author": "Arundhati Banerjee",
+    "isFavorite": false
   },
   {
     "title": "The Hidden Lantern",
-    "author": "Cormac Vuong"
+    "author": "Cormac Vuong",
+    "isFavorite": false
   },
   {
     "title": "Between Lisbon and Cairo",
-    "author": "Bernardine Naipaul"
+    "author": "Bernardine Naipaul",
+    "isFavorite": false
   },
   {
     "title": "Margaret's Shadow",
-    "author": "Zadie Patel"
+    "author": "Zadie Patel",
+    "isFavorite": false
   },
   {
     "title": "Letters from Brooklyn",
-    "author": "James Hamid"
+    "author": "James Hamid",
+    "isFavorite": false
   },
   {
     "title": "The Empty Hourglass of Marrakech",
-    "author": "Teju McCarthy"
+    "author": "Teju McCarthy",
+    "isFavorite": false
   },
   {
     "title": "The Velvet Mirror of Manila",
-    "author": "Akwaeke Desai"
+    "author": "Akwaeke Desai",
+    "isFavorite": false
   },
   {
     "title": "Rosa and the Midnight Cathedral",
-    "author": "Arundhati Adichie"
+    "author": "Arundhati Adichie",
+    "isFavorite": false
   },
   {
     "title": "The House on Crown Road",
-    "author": "Maya Okafor"
+    "author": "Maya Okafor",
+    "isFavorite": false
   },
   {
     "title": "Iron Faith",
-    "author": "Colson Gyasi"
+    "author": "Colson Gyasi",
+    "isFavorite": false
   },
   {
     "title": "The Last Promise of Cairo",
-    "author": "Sean Banerjee"
+    "author": "Sean Banerjee",
+    "isFavorite": false
   },
   {
     "title": "Fading Wonder",
-    "author": "Teju Soyinka"
+    "author": "Teju Soyinka",
+    "isFavorite": false
   },
   {
     "title": "Between Auckland and Lagos",
-    "author": "Bernardine Twan Eng"
+    "author": "Bernardine Twan Eng",
+    "isFavorite": false
   },
   {
     "title": "When the Crown Burns",
-    "author": "Arundhati Vuong"
+    "author": "Arundhati Vuong",
+    "isFavorite": false
   },
   {
     "title": "Between Edinburgh and Mumbai",
-    "author": "Ben Desai"
+    "author": "Ben Desai",
+    "isFavorite": false
   },
   {
     "title": "Between Cairo and Calcutta",
-    "author": "Min Jin Banerjee"
+    "author": "Min Jin Banerjee",
+    "isFavorite": false
   },
   {
     "title": "Ravi and the Falling Marketplace",
-    "author": "Cormac Kureishi"
+    "author": "Cormac Kureishi",
+    "isFavorite": false
   },
   {
     "title": "The House on Compass Lane",
-    "author": "Salman Desai"
+    "author": "Salman Desai",
+    "isFavorite": false
   },
   {
     "title": "The Scarlet Compass",
-    "author": "Hiro Selvadurai"
+    "author": "Hiro Selvadurai",
+    "isFavorite": false
   },
   {
     "title": "Letters from Lisbon",
-    "author": "Marlon Vuong"
+    "author": "Marlon Vuong",
+    "isFavorite": false
   },
   {
     "title": "The Whispering Ashes",
-    "author": "Maya Cole"
+    "author": "Maya Cole",
+    "isFavorite": false
   },
   {
     "title": "The Cathedral of Longing",
-    "author": "Sean Cole"
+    "author": "Sean Cole",
+    "isFavorite": false
   },
   {
     "title": "The Winter Keeper",
-    "author": "Liam Hamid"
+    "author": "Liam Hamid",
+    "isFavorite": false
   },
   {
     "title": "Notes on Hunger and Rain",
-    "author": "Maya Nguyen"
+    "author": "Maya Nguyen",
+    "isFavorite": false
   },
   {
     "title": "Thomas and the Lonely Horizon",
-    "author": "Roddy Cole"
+    "author": "Roddy Cole",
+    "isFavorite": false
   },
   {
     "title": "The Storm Keeper",
-    "author": "Sofia Wainaina"
+    "author": "Sofia Wainaina",
+    "isFavorite": false
   },
   {
     "title": "The House on Garden Street",
-    "author": "Kofi Doyle"
+    "author": "Kofi Doyle",
+    "isFavorite": false
   },
   {
     "title": "Between Calcutta and Glasgow",
-    "author": "Wole Mantel"
+    "author": "Wole Mantel",
+    "isFavorite": false
   },
   {
     "title": "Margaret and the Golden Carnival",
-    "author": "Kiran Danticat"
+    "author": "Kiran Danticat",
+    "isFavorite": false
   },
   {
     "title": "Iron Solitude",
-    "author": "Imbolo Soyinka"
+    "author": "Imbolo Soyinka",
+    "isFavorite": false
   },
   {
     "title": "The Sacred Desert of Glasgow",
-    "author": "Ngozi Gyasi"
+    "author": "Ngozi Gyasi",
+    "isFavorite": false
   },
   {
     "title": "The Desert Keeper",
-    "author": "Ocean Selvadurai"
+    "author": "Ocean Selvadurai",
+    "isFavorite": false
   },
   {
     "title": "Rosa and the Drowned Promise",
-    "author": "Bernardine Cole"
+    "author": "Bernardine Cole",
+    "isFavorite": false
   },
   {
     "title": "Notes on Light and Fire",
-    "author": "Yaa Okafor"
+    "author": "Yaa Okafor",
+    "isFavorite": false
   },
   {
     "title": "Scarlet Sorrow",
-    "author": "Akwaeke Selvadurai"
+    "author": "Akwaeke Selvadurai",
+    "isFavorite": false
   },
   {
     "title": "When the Voyage Burns",
-    "author": "Olivia Seth"
+    "author": "Olivia Seth",
+    "isFavorite": false
   },
   {
     "title": "Tide of Colombo",
-    "author": "Hilary Mbue"
+    "author": "Hilary Mbue",
+    "isFavorite": false
   },
   {
     "title": "The Sacred City of Boston",
-    "author": "Arundhati Wainaina"
+    "author": "Arundhati Wainaina",
+    "isFavorite": false
   },
   {
     "title": "Between Brooklyn and Mumbai",
-    "author": "Olivia Kincaid"
+    "author": "Olivia Kincaid",
+    "isFavorite": false
   },
   {
     "title": "Margaret's Sanctuary",
-    "author": "Hanif Patel"
+    "author": "Hanif Patel",
+    "isFavorite": false
   },
   {
     "title": "The Vineyard Keeper",
-    "author": "Liam Twan Eng"
+    "author": "Liam Twan Eng",
+    "isFavorite": false
   },
   {
     "title": "When the Inheritance Returns",
-    "author": "Tariq Adichie"
+    "author": "Tariq Adichie",
+    "isFavorite": false
   },
   {
     "title": "A History of Fire",
-    "author": "Sean Okri"
+    "author": "Sean Okri",
+    "isFavorite": false
   },
   {
     "title": "The House on Harbor Street",
-    "author": "Vikram Murakami"
+    "author": "Vikram Murakami",
+    "isFavorite": false
   },
   {
     "title": "Summer of Glasgow",
-    "author": "Ocean Doyle"
+    "author": "Ocean Doyle",
+    "isFavorite": false
   },
   {
     "title": "Notes on Sorrow and Salt",
-    "author": "Vikram Patel"
+    "author": "Vikram Patel",
+    "isFavorite": false
   },
   {
     "title": "The Summer Keeper",
-    "author": "Imbolo Roy"
+    "author": "Imbolo Roy",
+    "isFavorite": false
   },
   {
     "title": "The Hidden Echo of Nairobi",
-    "author": "Vikram Gyasi"
+    "author": "Vikram Gyasi",
+    "isFavorite": false
   },
   {
     "title": "Rosa and the Distant Reckoning",
-    "author": "Roddy Whitehead"
+    "author": "Roddy Whitehead",
+    "isFavorite": false
   },
   {
     "title": "Eleanor and the Sacred Ledger",
-    "author": "Hiro Cole"
+    "author": "Hiro Cole",
+    "isFavorite": false
   },
   {
     "title": "The Wild Tide of Cape Town",
-    "author": "Brigid Cole"
+    "author": "Brigid Cole",
+    "isFavorite": false
   },
   {
     "title": "Daniel's Carnival",
-    "author": "Mohsin Roy"
+    "author": "Mohsin Roy",
+    "isFavorite": false
   },
   {
     "title": "Notes on Silence and Sorrow",
-    "author": "Maya Adichie"
+    "author": "Maya Adichie",
+    "isFavorite": false
   },
   {
     "title": "The House on River Hill",
-    "author": "Ngozi Twan Eng"
+    "author": "Ngozi Twan Eng",
+    "isFavorite": false
   },
   {
     "title": "Rosa and the Rising City",
-    "author": "Sean Desai"
+    "author": "Sean Desai",
+    "isFavorite": false
   },
   {
     "title": "The House on Bridge Road",
-    "author": "Ben Gyasi"
+    "author": "Ben Gyasi",
+    "isFavorite": false
   },
   {
     "title": "The Iron Journey of Havana",
-    "author": "Jhumpa Doyle"
+    "author": "Jhumpa Doyle",
+    "isFavorite": false
   },
   {
     "title": "The Ledger Keeper",
-    "author": "Imbolo James"
+    "author": "Imbolo James",
+    "isFavorite": false
   },
   {
     "title": "Distant Mercy",
-    "author": "Brigid Desai"
+    "author": "Brigid Desai",
+    "isFavorite": false
   },
   {
     "title": "The Bitter Ledger",
-    "author": "Ben Mbue"
+    "author": "Ben Mbue",
+    "isFavorite": false
   },
   {
     "title": "The Iron Mountain",
-    "author": "Kazuo Wainaina"
+    "author": "Kazuo Wainaina",
+    "isFavorite": false
   },
   {
     "title": "Daniel and the Iron Winter",
-    "author": "Ocean Gyasi"
+    "author": "Ocean Gyasi",
+    "isFavorite": false
   },
   {
     "title": "Ravi and the Midnight Cathedral",
-    "author": "Hilary Lahiri"
+    "author": "Hilary Lahiri",
+    "isFavorite": false
   },
   {
     "title": "The Eternal Reckoning",
-    "author": "James James"
+    "author": "James James",
+    "isFavorite": false
   },
   {
     "title": "Daniel's Sanctuary",
-    "author": "Ocean Selvadurai"
+    "author": "Ocean Selvadurai",
+    "isFavorite": false
   },
   {
     "title": "Voyage of Nairobi",
-    "author": "Tariq Evaristo"
+    "author": "Tariq Evaristo",
+    "isFavorite": false
   },
   {
     "title": "Ravi's Compass",
-    "author": "Sean Seth"
+    "author": "Sean Seth",
+    "isFavorite": false
   },
   {
     "title": "Margaret's Cathedral",
-    "author": "Ocean Lee"
+    "author": "Ocean Lee",
+    "isFavorite": false
   },
   {
     "title": "The House on Ember Hill",
-    "author": "Ocean Kureishi"
+    "author": "Ocean Kureishi",
+    "isFavorite": false
   },
   {
     "title": "The Hidden Cathedral",
-    "author": "Tan Naipaul"
+    "author": "Tan Naipaul",
+    "isFavorite": false
   },
   {
     "title": "The Empire of Wonder",
-    "author": "Akwaeke Patel"
+    "author": "Akwaeke Patel",
+    "isFavorite": false
   },
   {
     "title": "The Ancient Secret of Dublin",
-    "author": "Sofia Doyle"
+    "author": "Sofia Doyle",
+    "isFavorite": false
   },
   {
     "title": "Between Dublin and Reykjavik",
-    "author": "Ben James"
+    "author": "Ben James",
+    "isFavorite": false
   },
   {
     "title": "The House on Lighthouse Street",
-    "author": "Tan Vuong"
+    "author": "Tan Vuong",
+    "isFavorite": false
   },
   {
     "title": "The Sunken Marketplace of Lagos",
-    "author": "Isabel Roy"
+    "author": "Isabel Roy",
+    "isFavorite": false
   },
   {
     "title": "Garden of Toronto",
-    "author": "Yaa Adichie"
+    "author": "Yaa Adichie",
+    "isFavorite": false
   },
   {
     "title": "The Desert of Faith",
-    "author": "Kazuo Okri"
+    "author": "Kazuo Okri",
+    "isFavorite": false
   },
   {
     "title": "Voyage of Calcutta",
-    "author": "Sean Adebayo"
+    "author": "Sean Adebayo",
+    "isFavorite": false
   },
   {
     "title": "The Glass Ledger",
-    "author": "Salman Evaristo"
+    "author": "Salman Evaristo",
+    "isFavorite": false
   },
   {
     "title": "Notes on Dust and Salt",
-    "author": "Imbolo Seth"
+    "author": "Imbolo Seth",
+    "isFavorite": false
   },
   {
     "title": "Rosa and the Silent Clockwork",
-    "author": "Jhumpa Achebe"
+    "author": "Jhumpa Achebe",
+    "isFavorite": false
   },
   {
     "title": "The Shattered Orchard of Auckland",
-    "author": "Kazuo Evaristo"
+    "author": "Kazuo Evaristo",
+    "isFavorite": false
   },
   {
     "title": "The Crimson Bridge",
-    "author": "Olivia Okafor"
+    "author": "Olivia Okafor",
+    "isFavorite": false
   },
   {
     "title": "The Drowned Summer of Manila",
-    "author": "Kofi Rushdie"
+    "author": "Kofi Rushdie",
+    "isFavorite": false
   },
   {
     "title": "The Wilderness of Fire",
-    "author": "Kiran Banerjee"
+    "author": "Kiran Banerjee",
+    "isFavorite": false
   },
   {
     "title": "Empty Grief",
-    "author": "Kiran Kincaid"
+    "author": "Kiran Kincaid",
+    "isFavorite": false
   },
   {
     "title": "Storm of Kingston",
-    "author": "Marlon Adichie"
+    "author": "Marlon Adichie",
+    "isFavorite": false
   },
   {
     "title": "The Drowned Horizon of Brooklyn",
-    "author": "Chimamanda Rushdie"
+    "author": "Chimamanda Rushdie",
+    "isFavorite": false
   },
   {
     "title": "Between Cape Town and Boston",
-    "author": "Sofia Okafor"
+    "author": "Sofia Okafor",
+    "isFavorite": false
   },
   {
     "title": "When the Marketplace Returns",
-    "author": "Ocean Wainaina"
+    "author": "Ocean Wainaina",
+    "isFavorite": false
   },
   {
     "title": "Glass Faith",
-    "author": "Salman Wainaina"
+    "author": "Salman Wainaina",
+    "isFavorite": false
   },
   {
     "title": "Glass Mercy",
-    "author": "Min Jin O'Brien"
+    "author": "Min Jin O'Brien",
+    "isFavorite": false
   },
   {
     "title": "The Drowned Ledger of Nairobi",
-    "author": "Chimamanda Okri"
+    "author": "Chimamanda Okri",
+    "isFavorite": false
   },
   {
     "title": "The Secret Hourglass",
-    "author": "Cormac Ishiguro"
+    "author": "Cormac Ishiguro",
+    "isFavorite": false
   },
   {
     "title": "The House on Garden Lane",
-    "author": "Ben McCarthy"
+    "author": "Ben McCarthy",
+    "isFavorite": false
   },
   {
     "title": "The Lonely Storm",
-    "author": "Aravind Whitehead"
+    "author": "Aravind Whitehead",
+    "isFavorite": false
   },
   {
     "title": "When the Confession Waits",
-    "author": "Liam Selvadurai"
+    "author": "Liam Selvadurai",
+    "isFavorite": false
   },
   {
     "title": "Between Toronto and Nairobi",
-    "author": "Ngozi Lahiri"
+    "author": "Ngozi Lahiri",
+    "isFavorite": false
   },
   {
     "title": "Sunken Distance",
-    "author": "Zadie McCarthy"
+    "author": "Zadie McCarthy",
+    "isFavorite": false
   },
   {
     "title": "Falling Dust",
-    "author": "Hiro Evaristo"
+    "author": "Hiro Evaristo",
+    "isFavorite": false
   },
   {
     "title": "Between Sydney and Belfast",
-    "author": "Kofi Banerjee"
+    "author": "Kofi Banerjee",
+    "isFavorite": false
   },
   {
     "title": "A Letter in Nairobi",
-    "author": "Teju Doyle"
+    "author": "Teju Doyle",
+    "isFavorite": false
   },
   {
     "title": "The House on Desert Lane",
-    "author": "Hiro Whitehead"
+    "author": "Hiro Whitehead",
+    "isFavorite": false
   },
   {
     "title": "Samuel's Ashes",
-    "author": "Ngozi O'Brien"
+    "author": "Ngozi O'Brien",
+    "isFavorite": false
   },
   {
     "title": "The Vineyard of Silence",
-    "author": "Hanif Seth"
+    "author": "Hanif Seth",
+    "isFavorite": false
   },
   {
     "title": "Ancient Sorrow",
-    "author": "Cormac Twan Eng"
+    "author": "Cormac Twan Eng",
+    "isFavorite": false
   },
   {
     "title": "Between Kingston and Reykjavik",
-    "author": "Marlon Lahiri"
+    "author": "Marlon Lahiri",
+    "isFavorite": false
   },
   {
     "title": "Winter of Dublin",
-    "author": "Edwidge Soyinka"
+    "author": "Edwidge Soyinka",
+    "isFavorite": false
   },
   {
     "title": "The Letter Keeper",
-    "author": "Bernardine Lee"
+    "author": "Bernardine Lee",
+    "isFavorite": false
   },
   {
     "title": "Margaret's Storm",
-    "author": "Kiran Evaristo"
+    "author": "Kiran Evaristo",
+    "isFavorite": false
   },
   {
     "title": "Ishaan and the Ancient Frontier",
-    "author": "Roddy Noah"
+    "author": "Roddy Noah",
+    "isFavorite": false
   },
   {
     "title": "Notes on Salt and Hope",
-    "author": "Akwaeke Noah"
+    "author": "Akwaeke Noah",
+    "isFavorite": false
   },
   {
     "title": "The House on Mirror Road",
-    "author": "Salman Emezi"
+    "author": "Salman Emezi",
+    "isFavorite": false
   },
   {
     "title": "A Frontier in Glasgow",
-    "author": "Ben Nguyen"
+    "author": "Ben Nguyen",
+    "isFavorite": false
   },
   {
     "title": "Between Glasgow and Colombo",
-    "author": "Trevor Hamid"
+    "author": "Trevor Hamid",
+    "isFavorite": false
   },
   {
     "title": "Notes on Sorrow and Longing",
-    "author": "Trevor Vuong"
+    "author": "Trevor Vuong",
+    "isFavorite": false
   },
   {
     "title": "Notes on Wonder and Hope",
-    "author": "James Selvadurai"
+    "author": "James Selvadurai",
+    "isFavorite": false
   },
   {
     "title": "Between Cape Town and Sydney",
-    "author": "Colson McCarthy"
+    "author": "Colson McCarthy",
+    "isFavorite": false
   },
   {
     "title": "Eleanor's Storm",
-    "author": "Kofi Lahiri"
+    "author": "Kofi Lahiri",
+    "isFavorite": false
   },
   {
     "title": "The House on Promise Street",
-    "author": "Jhumpa James"
+    "author": "Jhumpa James",
+    "isFavorite": false
   },
   {
     "title": "The Northern Ledger",
-    "author": "Ocean Kincaid"
+    "author": "Ocean Kincaid",
+    "isFavorite": false
   },
   {
     "title": "The Horizon of Salt",
-    "author": "Kazuo Desai"
+    "author": "Kazuo Desai",
+    "isFavorite": false
   },
   {
     "title": "The Forgotten Tide of Boston",
-    "author": "Anita Doyle"
+    "author": "Anita Doyle",
+    "isFavorite": false
   },
   {
     "title": "When the Orchard Sleeps",
-    "author": "Yaa Seth"
+    "author": "Yaa Seth",
+    "isFavorite": false
   },
   {
     "title": "Promise of Colombo",
-    "author": "Colson Noah"
+    "author": "Colson Noah",
+    "isFavorite": false
   },
   {
     "title": "When the Storm Waits",
-    "author": "Imbolo Gyasi"
+    "author": "Imbolo Gyasi",
+    "isFavorite": false
   },
   {
     "title": "Empire of Lagos",
-    "author": "Chimamanda McCarthy"
+    "author": "Chimamanda McCarthy",
+    "isFavorite": false
   },
   {
     "title": "Between Vancouver and Colombo",
-    "author": "Imbolo Desai"
+    "author": "Imbolo Desai",
+    "isFavorite": false
   },
   {
     "title": "A Crown in Cape Town",
-    "author": "Teju Nguyen"
+    "author": "Teju Nguyen",
+    "isFavorite": false
   },
   {
     "title": "Notes on Hunger and Sorrow",
-    "author": "Ngozi Lee"
+    "author": "Ngozi Lee",
+    "isFavorite": false
   },
   {
     "title": "Tide of Karachi",
-    "author": "Chimamanda Lee"
+    "author": "Chimamanda Lee",
+    "isFavorite": false
   },
   {
     "title": "The Garden Keeper",
-    "author": "Sofia Selvadurai"
+    "author": "Sofia Selvadurai",
+    "isFavorite": false
   },
   {
     "title": "The Secret City of Brooklyn",
-    "author": "Kazuo Adebayo"
+    "author": "Kazuo Adebayo",
+    "isFavorite": false
   },
   {
     "title": "The Savage River of Calcutta",
-    "author": "Bernardine Wainaina"
+    "author": "Bernardine Wainaina",
+    "isFavorite": false
   },
   {
     "title": "When the Vineyard Returns",
-    "author": "Arundhati Kincaid"
+    "author": "Arundhati Kincaid",
+    "isFavorite": false
   },
   {
     "title": "Notes on Grief and Mercy",
-    "author": "Ben Nguyen"
+    "author": "Ben Nguyen",
+    "isFavorite": false
   },
   {
     "title": "Marcus and the Glass Threshold",
-    "author": "James Noah"
+    "author": "James Noah",
+    "isFavorite": false
   },
   {
     "title": "Bright Wonder",
-    "author": "Brigid Vuong"
+    "author": "Brigid Vuong",
+    "isFavorite": false
   },
   {
     "title": "The Tender Marketplace",
-    "author": "Cormac Noah"
+    "author": "Cormac Noah",
+    "isFavorite": false
   },
   {
     "title": "The Scarlet Reckoning of Calcutta",
-    "author": "Roddy Danticat"
+    "author": "Roddy Danticat",
+    "isFavorite": false
   },
   {
     "title": "The Storm of Hope",
-    "author": "Liam Mbue"
+    "author": "Liam Mbue",
+    "isFavorite": false
   },
   {
     "title": "Walter's Confession",
-    "author": "Colson Twan Eng"
+    "author": "Colson Twan Eng",
+    "isFavorite": false
   },
   {
     "title": "Forest of Calcutta",
-    "author": "Jhumpa Noah"
+    "author": "Jhumpa Noah",
+    "isFavorite": false
   },
   {
     "title": "A Ocean in Manila",
-    "author": "Aravind Ishiguro"
+    "author": "Aravind Ishiguro",
+    "isFavorite": false
   },
   {
     "title": "Between Kingston and Colombo",
-    "author": "Roddy Hamid"
+    "author": "Roddy Hamid",
+    "isFavorite": false
   },
   {
     "title": "Ancient Longing",
-    "author": "Kiran Achebe"
+    "author": "Kiran Achebe",
+    "isFavorite": false
   },
   {
     "title": "The Sunken City",
-    "author": "Kiran McCarthy"
+    "author": "Kiran McCarthy",
+    "isFavorite": false
   },
   {
     "title": "Broken Silence",
-    "author": "Ocean Lee"
+    "author": "Ocean Lee",
+    "isFavorite": false
   },
   {
     "title": "A Shadow in Edinburgh",
-    "author": "Hanif Desai"
+    "author": "Hanif Desai",
+    "isFavorite": false
   },
   {
     "title": "Ishaan and the Rising Marketplace",
-    "author": "Sean Soyinka"
+    "author": "Sean Soyinka",
+    "isFavorite": false
   },
   {
     "title": "The Ancient Lighthouse",
-    "author": "Imbolo Soyinka"
+    "author": "Imbolo Soyinka",
+    "isFavorite": false
   },
   {
     "title": "Notes on Distance and Patience",
-    "author": "Ben Nguyen"
+    "author": "Ben Nguyen",
+    "isFavorite": false
   },
   {
     "title": "The Scarlet Winter",
-    "author": "Hiro Seth"
+    "author": "Hiro Seth",
+    "isFavorite": false
   },
   {
     "title": "The House on Wilderness Lane",
-    "author": "Jhumpa Okafor"
+    "author": "Jhumpa Okafor",
+    "isFavorite": false
   },
   {
     "title": "The Sanctuary of Faith",
-    "author": "Edwidge Banerjee"
+    "author": "Edwidge Banerjee",
+    "isFavorite": false
   },
   {
     "title": "When the Confession Breaks",
-    "author": "Aravind Kincaid"
+    "author": "Aravind Kincaid",
+    "isFavorite": false
   },
   {
     "title": "Priya and the Golden Frontier",
-    "author": "Imbolo Doyle"
+    "author": "Imbolo Doyle",
+    "isFavorite": false
   },
   {
     "title": "Between Lisbon and Sydney",
-    "author": "Salman Wainaina"
+    "author": "Salman Wainaina",
+    "isFavorite": false
   },
   {
     "title": "Hassan and the Bright Mirror",
-    "author": "Salman Vuong"
+    "author": "Salman Vuong",
+    "isFavorite": false
   },
   {
     "title": "Notes on Patience and Rain",
-    "author": "Chimamanda Mensah"
+    "author": "Chimamanda Mensah",
+    "isFavorite": false
   },
   {
     "title": "The Cathedral of Fire",
-    "author": "Kofi Smith"
+    "author": "Kofi Smith",
+    "isFavorite": false
   },
   {
     "title": "The Tender Hourglass of Toronto",
-    "author": "Salman Okafor"
+    "author": "Salman Okafor",
+    "isFavorite": false
   },
   {
     "title": "The Velvet Secret of Havana",
-    "author": "Maya O'Brien"
+    "author": "Maya O'Brien",
+    "isFavorite": false
   },
   {
     "title": "Secret of Vancouver",
-    "author": "Tan McCarthy"
+    "author": "Tan McCarthy",
+    "isFavorite": false
   },
   {
     "title": "Walter's Carnival",
-    "author": "Yaa Vuong"
+    "author": "Yaa Vuong",
+    "isFavorite": false
   },
   {
     "title": "Notes on Freedom and Longing",
-    "author": "Tariq Soyinka"
+    "author": "Tariq Soyinka",
+    "isFavorite": false
   },
   {
     "title": "A Inheritance in Havana",
-    "author": "Ocean Lee"
+    "author": "Ocean Lee",
+    "isFavorite": false
   },
   {
     "title": "Harbor of Cape Town",
-    "author": "Min Jin Selvadurai"
+    "author": "Min Jin Selvadurai",
+    "isFavorite": false
   },
   {
     "title": "Samuel's Wilderness",
-    "author": "Liam Doyle"
+    "author": "Liam Doyle",
+    "isFavorite": false
   },
   {
     "title": "The Forgotten Mirror of Accra",
-    "author": "James Danticat"
+    "author": "James Danticat",
+    "isFavorite": false
   },
   {
     "title": "Grace's Crown",
-    "author": "Aravind Noah"
+    "author": "Aravind Noah",
+    "isFavorite": false
   },
   {
     "title": "The Harbor of Memory",
-    "author": "Arundhati Roy"
+    "author": "Arundhati Roy",
+    "isFavorite": false
   },
   {
     "title": "Letters from Reykjavik",
-    "author": "Salman Ishiguro"
+    "author": "Salman Ishiguro",
+    "isFavorite": false
   },
   {
     "title": "Between Glasgow and Edinburgh",
-    "author": "Anita Hamid"
+    "author": "Anita Hamid",
+    "isFavorite": false
   },
   {
     "title": "Notes on Fire and Salt",
-    "author": "Salman Vuong"
+    "author": "Salman Vuong",
+    "isFavorite": false
   },
   {
     "title": "Margaret and the Shattered Lighthouse",
-    "author": "Sean Roy"
+    "author": "Sean Roy",
+    "isFavorite": false
   },
   {
     "title": "Rising Freedom",
-    "author": "Isabel Murakami"
+    "author": "Isabel Murakami",
+    "isFavorite": false
   },
   {
     "title": "The House on Winter Hill",
-    "author": "Aravind Murakami"
+    "author": "Aravind Murakami",
+    "isFavorite": false
   },
   {
     "title": "The Wandering City",
-    "author": "James Lahiri"
+    "author": "James Lahiri",
+    "isFavorite": false
   },
   {
     "title": "Between Nairobi and Lisbon",
-    "author": "Anita Cole"
+    "author": "Anita Cole",
+    "isFavorite": false
   },
   {
     "title": "Daniel's Tide",
-    "author": "Vikram Seth"
+    "author": "Vikram Seth",
+    "isFavorite": false
   },
   {
     "title": "The Wilderness Keeper",
-    "author": "Mohsin Selvadurai"
+    "author": "Mohsin Selvadurai",
+    "isFavorite": false
   },
   {
     "title": "The Broken Desert",
-    "author": "Bernardine Gyasi"
+    "author": "Bernardine Gyasi",
+    "isFavorite": false
   },
   {
     "title": "When the Horizon Burns",
-    "author": "Wole Evaristo"
+    "author": "Wole Evaristo",
+    "isFavorite": false
   },
   {
     "title": "When the Harbor Falls",
-    "author": "Mohsin Mantel"
+    "author": "Mohsin Mantel",
+    "isFavorite": false
   },
   {
     "title": "Savage Dust",
-    "author": "Sofia Desai"
+    "author": "Sofia Desai",
+    "isFavorite": false
   },
   {
     "title": "Between Marrakech and Kingston",
-    "author": "Tariq Kincaid"
+    "author": "Tariq Kincaid",
+    "isFavorite": false
   },
   {
     "title": "Notes on Time and Hope",
-    "author": "Sean Lee"
+    "author": "Sean Lee",
+    "isFavorite": false
   },
   {
     "title": "Notes on Hope and Dust",
-    "author": "Marlon O'Brien"
+    "author": "Marlon O'Brien",
+    "isFavorite": false
   },
   {
     "title": "Esther and the Stolen Lantern",
-    "author": "Chimamanda Gyasi"
+    "author": "Chimamanda Gyasi",
+    "isFavorite": false
   },
   {
     "title": "The Lonely Crown of Marrakech",
-    "author": "Edwidge Nguyen"
+    "author": "Edwidge Nguyen",
+    "isFavorite": false
   },
   {
     "title": "Frozen Salt",
-    "author": "Colson James"
+    "author": "Colson James",
+    "isFavorite": false
   },
   {
     "title": "The Ember of Salt",
-    "author": "Cormac James"
+    "author": "Cormac James",
+    "isFavorite": false
   },
   {
     "title": "A History of Hope",
-    "author": "Cormac Lahiri"
+    "author": "Cormac Lahiri",
+    "isFavorite": false
   },
   {
     "title": "Threshold of Kingston",
-    "author": "Teju McCarthy"
+    "author": "Teju McCarthy",
+    "isFavorite": false
   },
   {
     "title": "Notes on Solitude and Memory",
-    "author": "Anita Mantel"
+    "author": "Anita Mantel",
+    "isFavorite": false
   },
   {
     "title": "When the Forest Returns",
-    "author": "Roddy Wainaina"
+    "author": "Roddy Wainaina",
+    "isFavorite": false
   },
   {
     "title": "Between Mumbai and Glasgow",
-    "author": "Yaa Seth"
+    "author": "Yaa Seth",
+    "isFavorite": false
   },
   {
     "title": "The River Keeper",
-    "author": "Vikram Roy"
+    "author": "Vikram Roy",
+    "isFavorite": false
   },
   {
     "title": "Eleanor and the Velvet Bridge",
-    "author": "Roddy Twan Eng"
+    "author": "Roddy Twan Eng",
+    "isFavorite": false
   },
   {
     "title": "Letters from Toronto",
-    "author": "Akwaeke Noah"
+    "author": "Akwaeke Noah",
+    "isFavorite": false
   },
   {
     "title": "Walter and the Glass Garden",
-    "author": "Salman Desai"
+    "author": "Salman Desai",
+    "isFavorite": false
   },
   {
     "title": "Mei and the Shattered Sanctuary",
-    "author": "Ben Whitehead"
+    "author": "Ben Whitehead",
+    "isFavorite": false
   },
   {
     "title": "The House on Vineyard Lane",
-    "author": "Liam Doyle"
+    "author": "Liam Doyle",
+    "isFavorite": false
   },
   {
     "title": "Between Nairobi and Glasgow",
-    "author": "Colson McCarthy"
+    "author": "Colson McCarthy",
+    "isFavorite": false
   },
   {
     "title": "The Cathedral Keeper",
-    "author": "Kazuo Seth"
+    "author": "Kazuo Seth",
+    "isFavorite": false
   },
   {
     "title": "Between Vancouver and Karachi",
-    "author": "Marlon James"
+    "author": "Marlon James",
+    "isFavorite": false
   },
   {
     "title": "The Confession Keeper",
-    "author": "Tan Smith"
+    "author": "Tan Smith",
+    "isFavorite": false
   },
   {
     "title": "Between Auckland and Cape Town",
-    "author": "Chimamanda Adebayo"
+    "author": "Chimamanda Adebayo",
+    "isFavorite": false
   },
   {
     "title": "The Whispering Ember of Karachi",
-    "author": "Tariq Ishiguro"
+    "author": "Tariq Ishiguro",
+    "isFavorite": false
   },
   {
     "title": "The Harbor of Freedom",
-    "author": "Ben Rushdie"
+    "author": "Ben Rushdie",
+    "isFavorite": false
   },
   {
     "title": "Clockwork of Edinburgh",
-    "author": "Chimamanda Mbue"
+    "author": "Chimamanda Mbue",
+    "isFavorite": false
   },
   {
     "title": "The Hidden Orchard",
-    "author": "Edwidge Kincaid"
+    "author": "Edwidge Kincaid",
+    "isFavorite": false
   },
   {
     "title": "Between Sydney and Dublin",
-    "author": "Maya Gyasi"
+    "author": "Maya Gyasi",
+    "isFavorite": false
   },
   {
     "title": "The Stolen Winter",
-    "author": "Kofi Rushdie"
+    "author": "Kofi Rushdie",
+    "isFavorite": false
   },
   {
     "title": "Between Karachi and Dublin",
-    "author": "Tariq Selvadurai"
+    "author": "Tariq Selvadurai",
+    "isFavorite": false
   },
   {
     "title": "Letters from Colombo",
-    "author": "James Noah"
+    "author": "James Noah",
+    "isFavorite": false
   },
   {
     "title": "A Secret in Calcutta",
-    "author": "Mohsin McCarthy"
+    "author": "Mohsin McCarthy",
+    "isFavorite": false
   },
   {
     "title": "Lucia and the Fading Carnival",
-    "author": "Ben Adebayo"
+    "author": "Ben Adebayo",
+    "isFavorite": false
   },
   {
     "title": "Ravi and the Ancient Letter",
-    "author": "Anita Noah"
+    "author": "Anita Noah",
+    "isFavorite": false
   },
   {
     "title": "Aisha and the Eternal Inheritance",
-    "author": "Salman Banerjee"
+    "author": "Salman Banerjee",
+    "isFavorite": false
   },
   {
     "title": "The Last Wilderness of Marrakech",
-    "author": "Jhumpa Smith"
+    "author": "Jhumpa Smith",
+    "isFavorite": false
   },
   {
     "title": "The Singing Empire of Karachi",
-    "author": "Chimamanda Soyinka"
+    "author": "Chimamanda Soyinka",
+    "isFavorite": false
   },
   {
     "title": "The House on Shadow Road",
-    "author": "Olivia Lahiri"
+    "author": "Olivia Lahiri",
+    "isFavorite": false
   },
   {
     "title": "The House on Marketplace Street",
-    "author": "Tariq James"
+    "author": "Tariq James",
+    "isFavorite": false
   },
   {
     "title": "Crimson Dust",
-    "author": "Colson Roy"
+    "author": "Colson Roy",
+    "isFavorite": false
   },
   {
     "title": "When the Ember Returns",
-    "author": "Imbolo Mensah"
+    "author": "Imbolo Mensah",
+    "isFavorite": false
   },
   {
     "title": "Singing Salt",
-    "author": "Edwidge Okafor"
+    "author": "Edwidge Okafor",
+    "isFavorite": false
   },
   {
     "title": "Olivia's Garden",
-    "author": "Anita Mbue"
+    "author": "Anita Mbue",
+    "isFavorite": false
   },
   {
     "title": "Sunken Solitude",
-    "author": "Mohsin Okafor"
+    "author": "Mohsin Okafor",
+    "isFavorite": false
   },
   {
     "title": "Sunken Light",
-    "author": "Jhumpa James"
+    "author": "Jhumpa James",
+    "isFavorite": false
   },
   {
     "title": "A Mirror in Cape Town",
-    "author": "Kofi Kureishi"
+    "author": "Kofi Kureishi",
+    "isFavorite": false
   },
   {
     "title": "Between Colombo and Accra",
-    "author": "Ngozi Banerjee"
+    "author": "Ngozi Banerjee",
+    "isFavorite": false
   },
   {
     "title": "The House on Confession Hill",
-    "author": "Colson Danticat"
+    "author": "Colson Danticat",
+    "isFavorite": false
   },
   {
     "title": "Endless Grief",
-    "author": "Chimamanda Patel"
+    "author": "Chimamanda Patel",
+    "isFavorite": false
   },
   {
     "title": "A Wilderness in Vancouver",
-    "author": "Cormac Smith"
+    "author": "Cormac Smith",
+    "isFavorite": false
   },
   {
     "title": "The Lantern Keeper",
-    "author": "Olivia Banerjee"
+    "author": "Olivia Banerjee",
+    "isFavorite": false
   },
   {
     "title": "The House on Mirror Lane",
-    "author": "Hilary Wainaina"
+    "author": "Hilary Wainaina",
+    "isFavorite": false
   },
   {
     "title": "The Rising Bridge",
-    "author": "Jhumpa Mbue"
+    "author": "Jhumpa Mbue",
+    "isFavorite": false
   },
   {
     "title": "When the Voyage Sings",
-    "author": "Mohsin Lee"
+    "author": "Mohsin Lee",
+    "isFavorite": false
   },
   {
     "title": "The House on Horizon Hill",
-    "author": "James Doyle"
+    "author": "James Doyle",
+    "isFavorite": false
   },
   {
     "title": "Orchard of Colombo",
-    "author": "Hilary Evaristo"
+    "author": "Hilary Evaristo",
+    "isFavorite": false
   },
   {
     "title": "The Frozen Marketplace",
-    "author": "Teju Evaristo"
+    "author": "Teju Evaristo",
+    "isFavorite": false
   },
   {
     "title": "The House on Harbor Hill",
-    "author": "Colson Murakami"
+    "author": "Colson Murakami",
+    "isFavorite": false
   },
   {
     "title": "The Bitter Shadow of Calcutta",
-    "author": "Teju Soyinka"
+    "author": "Teju Soyinka",
+    "isFavorite": false
   },
   {
     "title": "Eleanor's Confession",
-    "author": "Hanif Gyasi"
+    "author": "Hanif Gyasi",
+    "isFavorite": false
   },
   {
     "title": "The Tender Summer",
-    "author": "Ben Mensah"
+    "author": "Ben Mensah",
+    "isFavorite": false
   },
   {
     "title": "Between Edinburgh and Sydney",
-    "author": "Kiran Banerjee"
+    "author": "Kiran Banerjee",
+    "isFavorite": false
   },
   {
     "title": "When the Storm Returns",
-    "author": "Min Jin Seth"
+    "author": "Min Jin Seth",
+    "isFavorite": false
   },
   {
     "title": "The House on Storm Hill",
-    "author": "Arundhati Gyasi"
+    "author": "Arundhati Gyasi",
+    "isFavorite": false
   },
   {
     "title": "Adaeze and the Tender Threshold",
-    "author": "Cormac Okafor"
+    "author": "Cormac Okafor",
+    "isFavorite": false
   },
   {
     "title": "When the Journey Burns",
-    "author": "Zadie Mantel"
+    "author": "Zadie Mantel",
+    "isFavorite": false
   },
   {
     "title": "The Distant Confession",
-    "author": "Edwidge Cole"
+    "author": "Edwidge Cole",
+    "isFavorite": false
   },
   {
     "title": "Notes on Solitude and Distance",
-    "author": "James Kincaid"
+    "author": "James Kincaid",
+    "isFavorite": false
   },
   {
     "title": "Samuel's Frontier",
-    "author": "Cormac Naipaul"
+    "author": "Cormac Naipaul",
+    "isFavorite": false
   },
   {
     "title": "Notes on Salt and Distance",
-    "author": "Jhumpa Kureishi"
+    "author": "Jhumpa Kureishi",
+    "isFavorite": false
   },
   {
     "title": "Letters from Kingston",
-    "author": "Sofia Hamid"
+    "author": "Sofia Hamid",
+    "isFavorite": false
   },
   {
     "title": "The Singing Ledger",
-    "author": "Bernardine Vuong"
+    "author": "Bernardine Vuong",
+    "isFavorite": false
   },
   {
     "title": "The House on Hourglass Lane",
-    "author": "Arundhati Selvadurai"
+    "author": "Arundhati Selvadurai",
+    "isFavorite": false
   },
   {
     "title": "Samuel's Cathedral",
-    "author": "Kiran Evaristo"
+    "author": "Kiran Evaristo",
+    "isFavorite": false
   },
   {
     "title": "Between Vancouver and Cape Town",
-    "author": "Min Jin Okafor"
+    "author": "Min Jin Okafor",
+    "isFavorite": false
   },
   {
     "title": "Clara and the Frozen Tide",
-    "author": "Mohsin Twan Eng"
+    "author": "Mohsin Twan Eng",
+    "isFavorite": false
   },
   {
     "title": "Iron Hope",
-    "author": "Kazuo Hamid"
+    "author": "Kazuo Hamid",
+    "isFavorite": false
   },
   {
     "title": "Notes on Time and Rain",
-    "author": "Sean Kureishi"
+    "author": "Sean Kureishi",
+    "isFavorite": false
   },
   {
     "title": "The Distant Storm",
-    "author": "Trevor Evaristo"
+    "author": "Trevor Evaristo",
+    "isFavorite": false
   },
   {
     "title": "Esther and the Endless Reckoning",
-    "author": "Hanif Noah"
+    "author": "Hanif Noah",
+    "isFavorite": false
   },
   {
     "title": "Vineyard of Brooklyn",
-    "author": "Arundhati Patel"
+    "author": "Arundhati Patel",
+    "isFavorite": false
   },
   {
     "title": "Between Auckland and Edinburgh",
-    "author": "Salman Rushdie"
+    "author": "Salman Rushdie",
+    "isFavorite": false
   },
   {
     "title": "Hassan's Hourglass",
-    "author": "Colson Lee"
+    "author": "Colson Lee",
+    "isFavorite": false
   },
   {
     "title": "The Pale Marketplace of Nairobi",
-    "author": "Akwaeke Ishiguro"
+    "author": "Akwaeke Ishiguro",
+    "isFavorite": false
   },
   {
     "title": "Voyage of Auckland",
-    "author": "Isabel Mbue"
+    "author": "Isabel Mbue",
+    "isFavorite": false
   },
   {
     "title": "Ishaan's Voyage",
-    "author": "Hilary Rushdie"
+    "author": "Hilary Rushdie",
+    "isFavorite": false
   },
   {
     "title": "Femi and the Burning Desert",
-    "author": "Cormac Wainaina"
+    "author": "Cormac Wainaina",
+    "isFavorite": false
   },
   {
     "title": "Aisha and the Restless Bridge",
-    "author": "Teju Ishiguro"
+    "author": "Teju Ishiguro",
+    "isFavorite": false
   },
   {
     "title": "The Lonely Carnival of Kingston",
-    "author": "Ocean Noah"
+    "author": "Ocean Noah",
+    "isFavorite": false
   },
   {
     "title": "Wandering Light",
-    "author": "Kazuo Murakami"
+    "author": "Kazuo Murakami",
+    "isFavorite": false
   },
   {
     "title": "The Restless Confession",
-    "author": "Trevor Ishiguro"
+    "author": "Trevor Ishiguro",
+    "isFavorite": false
   },
   {
     "title": "Clockwork of Boston",
-    "author": "Marlon Adebayo"
+    "author": "Marlon Adebayo",
+    "isFavorite": false
   },
   {
     "title": "The Empire Keeper",
-    "author": "Wole Seth"
+    "author": "Wole Seth",
+    "isFavorite": false
   },
   {
     "title": "Esther's Compass",
-    "author": "Ocean Vuong"
+    "author": "Ocean Vuong",
+    "isFavorite": false
   },
   {
     "title": "Journey of Belfast",
-    "author": "Chinua Evaristo"
+    "author": "Chinua Evaristo",
+    "isFavorite": false
   },
   {
     "title": "A Vineyard in Manila",
-    "author": "Vikram Adebayo"
+    "author": "Vikram Adebayo",
+    "isFavorite": false
   },
   {
     "title": "The House on Summer Hill",
-    "author": "Brigid Whitehead"
+    "author": "Brigid Whitehead",
+    "isFavorite": false
   },
   {
     "title": "When the Clockwork Returns",
-    "author": "Anita Achebe"
+    "author": "Anita Achebe",
+    "isFavorite": false
   },
   {
     "title": "The Bitter Secret",
-    "author": "Arundhati Noah"
+    "author": "Arundhati Noah",
+    "isFavorite": false
   },
   {
     "title": "A Hourglass in Singapore",
-    "author": "Marlon Wainaina"
+    "author": "Marlon Wainaina",
+    "isFavorite": false
   },
   {
     "title": "City of Lisbon",
-    "author": "Imbolo Kureishi"
+    "author": "Imbolo Kureishi",
+    "isFavorite": false
   },
   {
     "title": "The Velvet City of Vancouver",
-    "author": "Jhumpa Desai"
+    "author": "Jhumpa Desai",
+    "isFavorite": false
   },
   {
     "title": "Clockwork of Havana",
-    "author": "Zadie Patel"
+    "author": "Zadie Patel",
+    "isFavorite": false
   },
   {
     "title": "Eleanor and the Forgotten Shadow",
-    "author": "Edwidge Soyinka"
+    "author": "Edwidge Soyinka",
+    "isFavorite": false
   },
   {
     "title": "The Glass Bridge",
-    "author": "Kazuo James"
+    "author": "Kazuo James",
+    "isFavorite": false
   },
   {
     "title": "Thomas and the Whispering Secret",
-    "author": "Olivia Smith"
+    "author": "Olivia Smith",
+    "isFavorite": false
   },
   {
     "title": "When the Inheritance Falls",
-    "author": "Marlon Hamid"
+    "author": "Marlon Hamid",
+    "isFavorite": false
   },
   {
     "title": "When the Letter Breaks",
-    "author": "Bernardine Doyle"
+    "author": "Bernardine Doyle",
+    "isFavorite": false
   },
   {
     "title": "When the Ledger Waits",
-    "author": "Salman O'Brien"
+    "author": "Salman O'Brien",
+    "isFavorite": false
   },
   {
     "title": "The Secret Mountain of Havana",
-    "author": "Isabel Gyasi"
+    "author": "Isabel Gyasi",
+    "isFavorite": false
   },
   {
     "title": "Notes on Light and Hope",
-    "author": "Ocean Smith"
+    "author": "Ocean Smith",
+    "isFavorite": false
   },
   {
     "title": "Eleanor's Ashes",
-    "author": "Bernardine Lee"
+    "author": "Bernardine Lee",
+    "isFavorite": false
   },
   {
     "title": "A Bridge in Belfast",
-    "author": "Akwaeke Smith"
+    "author": "Akwaeke Smith",
+    "isFavorite": false
   },
   {
     "title": "Eleanor and the Golden Frontier",
-    "author": "Trevor Soyinka"
+    "author": "Trevor Soyinka",
+    "isFavorite": false
   },
   {
     "title": "Hassan's Ledger",
-    "author": "Brigid Naipaul"
+    "author": "Brigid Naipaul",
+    "isFavorite": false
   },
   {
     "title": "Letters from Auckland",
-    "author": "Kofi Gyasi"
+    "author": "Kofi Gyasi",
+    "isFavorite": false
   },
   {
     "title": "Mei and the Rising Threshold",
-    "author": "Hiro Okri"
+    "author": "Hiro Okri",
+    "isFavorite": false
   },
   {
     "title": "The Secret of Longing",
-    "author": "Tan Noah"
+    "author": "Tan Noah",
+    "isFavorite": false
   },
   {
     "title": "Walter and the Ancient Lighthouse",
-    "author": "Chimamanda Banerjee"
+    "author": "Chimamanda Banerjee",
+    "isFavorite": false
   },
   {
     "title": "Desert of Singapore",
-    "author": "Ben Kureishi"
+    "author": "Ben Kureishi",
+    "isFavorite": false
   },
   {
     "title": "The Sacred Inheritance",
-    "author": "Hilary Achebe"
+    "author": "Hilary Achebe",
+    "isFavorite": false
   },
   {
     "title": "Mei's Letter",
-    "author": "Colson Adichie"
+    "author": "Colson Adichie",
+    "isFavorite": false
   },
   {
     "title": "Notes on Dust and Memory",
-    "author": "Tariq Evaristo"
+    "author": "Tariq Evaristo",
+    "isFavorite": false
   },
   {
     "title": "The Restless Ledger",
-    "author": "Roddy Ishiguro"
+    "author": "Roddy Ishiguro",
+    "isFavorite": false
   },
   {
     "title": "Orchard of Belfast",
-    "author": "Anita Ishiguro"
+    "author": "Anita Ishiguro",
+    "isFavorite": false
   },
   {
     "title": "The House on Orchard Lane",
-    "author": "Edwidge Lahiri"
+    "author": "Edwidge Lahiri",
+    "isFavorite": false
   },
   {
     "title": "The Clockwork of Longing",
-    "author": "Maya McCarthy"
+    "author": "Maya McCarthy",
+    "isFavorite": false
   },
   {
     "title": "The Savage Sanctuary of Brooklyn",
-    "author": "Chinua Banerjee"
+    "author": "Chinua Banerjee",
+    "isFavorite": false
   },
   {
     "title": "The House on Window Road",
-    "author": "Sofia Nguyen"
+    "author": "Sofia Nguyen",
+    "isFavorite": false
   },
   {
     "title": "Crimson Rain",
-    "author": "Sofia Banerjee"
+    "author": "Sofia Banerjee",
+    "isFavorite": false
   },
   {
     "title": "The Empty Shadow of Marrakech",
-    "author": "Aravind Mantel"
+    "author": "Aravind Mantel",
+    "isFavorite": false
   },
   {
     "title": "Forgotten Freedom",
-    "author": "Akwaeke Nguyen"
+    "author": "Akwaeke Nguyen",
+    "isFavorite": false
   },
   {
     "title": "Aisha's City",
-    "author": "Kazuo Soyinka"
+    "author": "Kazuo Soyinka",
+    "isFavorite": false
   },
   {
     "title": "Grace's Ledger",
-    "author": "Sean Gyasi"
+    "author": "Sean Gyasi",
+    "isFavorite": false
   },
   {
     "title": "A Desert in Lisbon",
-    "author": "Salman Desai"
+    "author": "Salman Desai",
+    "isFavorite": false
   },
   {
     "title": "A Threshold in Manila",
-    "author": "Zadie Naipaul"
+    "author": "Zadie Naipaul",
+    "isFavorite": false
   },
   {
     "title": "Lighthouse of Mumbai",
-    "author": "Bernardine Wainaina"
+    "author": "Bernardine Wainaina",
+    "isFavorite": false
   },
   {
     "title": "The Secret Mirror",
-    "author": "Liam Evaristo"
+    "author": "Liam Evaristo",
+    "isFavorite": false
   },
   {
     "title": "Notes on Distance and Dust",
-    "author": "Ocean Adebayo"
+    "author": "Ocean Adebayo",
+    "isFavorite": false
   },
   {
     "title": "A History of Freedom",
-    "author": "Olivia Gyasi"
+    "author": "Olivia Gyasi",
+    "isFavorite": false
   },
   {
     "title": "Journey of Vancouver",
-    "author": "James Gyasi"
+    "author": "James Gyasi",
+    "isFavorite": false
   },
   {
     "title": "Between Havana and Reykjavik",
-    "author": "Ngozi Patel"
+    "author": "Ngozi Patel",
+    "isFavorite": false
   },
   {
     "title": "Empire of Manila",
-    "author": "Kazuo Mbue"
+    "author": "Kazuo Mbue",
+    "isFavorite": false
   },
   {
     "title": "When the Ledger Sleeps",
-    "author": "Akwaeke Cole"
+    "author": "Akwaeke Cole",
+    "isFavorite": false
   },
   {
     "title": "The City Keeper",
-    "author": "Edwidge Kincaid"
+    "author": "Edwidge Kincaid",
+    "isFavorite": false
   },
   {
     "title": "The Rising Window",
-    "author": "Ben Seth"
+    "author": "Ben Seth",
+    "isFavorite": false
   },
   {
     "title": "The Throne of Grief",
-    "author": "Vikram Doyle"
+    "author": "Vikram Doyle",
+    "isFavorite": false
   },
   {
     "title": "The Glass Tide",
-    "author": "Tariq Nguyen"
+    "author": "Tariq Nguyen",
+    "isFavorite": false
   },
   {
     "title": "Grace and the Velvet Desert",
-    "author": "James Banerjee"
+    "author": "James Banerjee",
+    "isFavorite": false
   },
   {
     "title": "Olivia and the Last Reckoning",
-    "author": "Roddy Lahiri"
+    "author": "Roddy Lahiri",
+    "isFavorite": false
   },
   {
     "title": "Notes on Distance and Time",
-    "author": "Hanif Soyinka"
+    "author": "Hanif Soyinka",
+    "isFavorite": false
   },
   {
     "title": "The Whispering Voyage",
-    "author": "Zadie Seth"
+    "author": "Zadie Seth",
+    "isFavorite": false
   },
   {
     "title": "Between Cairo and Belfast",
-    "author": "Teju Hamid"
+    "author": "Teju Hamid",
+    "isFavorite": false
   },
   {
     "title": "When the Empire Burns",
-    "author": "Tan Lee"
+    "author": "Tan Lee",
+    "isFavorite": false
   },
   {
     "title": "Burning Hunger",
-    "author": "Colson Banerjee"
+    "author": "Colson Banerjee",
+    "isFavorite": false
   },
   {
     "title": "When the Horizon Returns",
-    "author": "Tariq Seth"
+    "author": "Tariq Seth",
+    "isFavorite": false
   },
   {
     "title": "Yuki's Marketplace",
-    "author": "James Patel"
+    "author": "James Patel",
+    "isFavorite": false
   },
   {
     "title": "A Lighthouse in Brooklyn",
-    "author": "Vikram Patel"
+    "author": "Vikram Patel",
+    "isFavorite": false
   },
   {
     "title": "The Ashes Keeper",
-    "author": "Anita Gyasi"
+    "author": "Anita Gyasi",
+    "isFavorite": false
   },
   {
     "title": "The House on Throne Street",
-    "author": "Bernardine Nguyen"
+    "author": "Bernardine Nguyen",
+    "isFavorite": false
   },
   {
     "title": "The Savage Confession of Manila",
-    "author": "Liam Naipaul"
+    "author": "Liam Naipaul",
+    "isFavorite": false
   },
   {
     "title": "Ledger of Glasgow",
-    "author": "Vikram Murakami"
+    "author": "Vikram Murakami",
+    "isFavorite": false
   },
   {
     "title": "The Savage Hourglass",
-    "author": "Trevor Twan Eng"
+    "author": "Trevor Twan Eng",
+    "isFavorite": false
   },
   {
     "title": "The Midnight Marketplace of Edinburgh",
-    "author": "Liam Naipaul"
+    "author": "Liam Naipaul",
+    "isFavorite": false
   },
   {
     "title": "The Scarlet Tide",
-    "author": "Salman Soyinka"
+    "author": "Salman Soyinka",
+    "isFavorite": false
   },
   {
     "title": "Priya's Ocean",
-    "author": "Bernardine Patel"
+    "author": "Bernardine Patel",
+    "isFavorite": false
   },
   {
     "title": "The Sunken Threshold of Dublin",
-    "author": "Trevor Evaristo"
+    "author": "Trevor Evaristo",
+    "isFavorite": false
   },
   {
     "title": "The House on Reckoning Lane",
-    "author": "Akwaeke Banerjee"
+    "author": "Akwaeke Banerjee",
+    "isFavorite": false
   },
   {
     "title": "The Letter of Dust",
-    "author": "Teju Cole"
+    "author": "Teju Cole",
+    "isFavorite": false
   },
   {
     "title": "Between Brooklyn and Toronto",
-    "author": "Imbolo Evaristo"
+    "author": "Imbolo Evaristo",
+    "isFavorite": false
   },
   {
     "title": "A Lantern in Colombo",
-    "author": "Ocean Mantel"
+    "author": "Ocean Mantel",
+    "isFavorite": false
   },
   {
     "title": "Hassan's Clockwork",
-    "author": "Ngozi Vuong"
+    "author": "Ngozi Vuong",
+    "isFavorite": false
   },
   {
     "title": "When the Orchard Returns",
-    "author": "Hanif Wainaina"
+    "author": "Hanif Wainaina",
+    "isFavorite": false
   },
   {
     "title": "Echo of Colombo",
-    "author": "Hanif Selvadurai"
+    "author": "Hanif Selvadurai",
+    "isFavorite": false
   },
   {
     "title": "When the Ocean Sings",
-    "author": "Isabel Achebe"
+    "author": "Isabel Achebe",
+    "isFavorite": false
   },
   {
     "title": "The Shattered Window of Reykjavik",
-    "author": "Teju Doyle"
+    "author": "Teju Doyle",
+    "isFavorite": false
   },
   {
     "title": "Between Manila and Accra",
-    "author": "Ocean Achebe"
+    "author": "Ocean Achebe",
+    "isFavorite": false
   },
   {
     "title": "Notes on Memory and Grief",
-    "author": "Arundhati Lahiri"
+    "author": "Arundhati Lahiri",
+    "isFavorite": false
   },
   {
     "title": "Restless Time",
-    "author": "Kiran Desai"
+    "author": "Kiran Desai",
+    "isFavorite": false
   },
   {
     "title": "The House on Reckoning Hill",
-    "author": "Isabel Nguyen"
+    "author": "Isabel Nguyen",
+    "isFavorite": false
   },
   {
     "title": "A Reckoning in Colombo",
-    "author": "Cormac Wainaina"
+    "author": "Cormac Wainaina",
+    "isFavorite": false
   },
   {
     "title": "The Restless Ocean of Marrakech",
-    "author": "Marlon Smith"
+    "author": "Marlon Smith",
+    "isFavorite": false
   },
   {
     "title": "Ishaan's Winter",
-    "author": "Sean Noah"
+    "author": "Sean Noah",
+    "isFavorite": false
   },
   {
     "title": "Promise of Nairobi",
-    "author": "Mohsin Adebayo"
+    "author": "Mohsin Adebayo",
+    "isFavorite": false
   },
   {
     "title": "Between Toronto and Havana",
-    "author": "Sofia McCarthy"
+    "author": "Sofia McCarthy",
+    "isFavorite": false
   },
   {
     "title": "Bright Freedom",
-    "author": "Mohsin McCarthy"
+    "author": "Mohsin McCarthy",
+    "isFavorite": false
   },
   {
     "title": "The House on Carnival Road",
-    "author": "Hilary Lahiri"
+    "author": "Hilary Lahiri",
+    "isFavorite": false
   },
   {
     "title": "Notes on Memory and Longing",
-    "author": "Jhumpa James"
+    "author": "Jhumpa James",
+    "isFavorite": false
   },
   {
     "title": "Savage Sorrow",
-    "author": "Cormac O'Brien"
+    "author": "Cormac O'Brien",
+    "isFavorite": false
   },
   {
     "title": "Hassan and the Endless Sanctuary",
-    "author": "Salman Mantel"
+    "author": "Salman Mantel",
+    "isFavorite": false
   },
   {
     "title": "Ishaan and the Tender Threshold",
-    "author": "Ngozi Twan Eng"
+    "author": "Ngozi Twan Eng",
+    "isFavorite": false
   },
   {
     "title": "Hassan's Lantern",
-    "author": "Chimamanda Whitehead"
+    "author": "Chimamanda Whitehead",
+    "isFavorite": false
   },
   {
     "title": "A Clockwork in Manila",
-    "author": "Zadie Banerjee"
+    "author": "Zadie Banerjee",
+    "isFavorite": false
   },
   {
     "title": "A Throne in Kingston",
-    "author": "Zadie Cole"
+    "author": "Zadie Cole",
+    "isFavorite": false
   },
   {
     "title": "Nadia's Lighthouse",
-    "author": "Salman Vuong"
+    "author": "Salman Vuong",
+    "isFavorite": false
   },
   {
     "title": "The Journey of Dust",
-    "author": "Kazuo Kincaid"
+    "author": "Kazuo Kincaid",
+    "isFavorite": false
   },
   {
     "title": "Notes on Wonder and Rain",
-    "author": "Chinua Wainaina"
+    "author": "Chinua Wainaina",
+    "isFavorite": false
   },
   {
     "title": "When the Ember Breaks",
-    "author": "Hilary Soyinka"
+    "author": "Hilary Soyinka",
+    "isFavorite": false
   },
   {
     "title": "The Empty Voyage of Kingston",
-    "author": "Aravind Murakami"
+    "author": "Aravind Murakami",
+    "isFavorite": false
   },
   {
     "title": "When the Echo Burns",
-    "author": "Arundhati Mantel"
+    "author": "Arundhati Mantel",
+    "isFavorite": false
   },
   {
     "title": "Notes on Freedom and Rain",
-    "author": "Maya Seth"
+    "author": "Maya Seth",
+    "isFavorite": false
   },
   {
     "title": "The Echo of Rain",
-    "author": "Hanif Kincaid"
+    "author": "Hanif Kincaid",
+    "isFavorite": false
   },
   {
     "title": "Between Accra and Boston",
-    "author": "Sofia Kureishi"
+    "author": "Sofia Kureishi",
+    "isFavorite": false
   },
   {
     "title": "The Wandering Threshold",
-    "author": "Jhumpa Kureishi"
+    "author": "Jhumpa Kureishi",
+    "isFavorite": false
   },
   {
     "title": "Notes on Patience and Wonder",
-    "author": "Wole Seth"
+    "author": "Wole Seth",
+    "isFavorite": false
   },
   {
     "title": "Henry and the Shattered Ember",
-    "author": "Hiro Banerjee"
+    "author": "Hiro Banerjee",
+    "isFavorite": false
   },
   {
     "title": "The Journey of Patience",
-    "author": "Tariq Emezi"
+    "author": "Tariq Emezi",
+    "isFavorite": false
   },
   {
     "title": "The Secret City of Toronto",
-    "author": "Cormac Mantel"
+    "author": "Cormac Mantel",
+    "isFavorite": false
   },
   {
     "title": "Mei's Cathedral",
-    "author": "Kazuo Noah"
+    "author": "Kazuo Noah",
+    "isFavorite": false
   },
   {
     "title": "Joseph's Echo",
-    "author": "Marlon Adichie"
+    "author": "Marlon Adichie",
+    "isFavorite": false
   },
   {
     "title": "The House on Shadow Lane",
-    "author": "Vikram Kureishi"
+    "author": "Vikram Kureishi",
+    "isFavorite": false
   },
   {
     "title": "The Whispering Horizon of Karachi",
-    "author": "Kofi Vuong"
+    "author": "Kofi Vuong",
+    "isFavorite": false
   },
   {
     "title": "Bright Solitude",
-    "author": "Zadie Kureishi"
+    "author": "Zadie Kureishi",
+    "isFavorite": false
   },
   {
     "title": "The Burning Desert",
-    "author": "Teju Whitehead"
+    "author": "Teju Whitehead",
+    "isFavorite": false
   },
   {
     "title": "The Distant Vineyard of Nairobi",
-    "author": "Tan Whitehead"
+    "author": "Tan Whitehead",
+    "isFavorite": false
   },
   {
     "title": "The Glass Harbor of Lisbon",
-    "author": "Brigid Danticat"
+    "author": "Brigid Danticat",
+    "isFavorite": false
   },
   {
     "title": "The Hidden Wilderness of Karachi",
-    "author": "Cormac Adichie"
+    "author": "Cormac Adichie",
+    "isFavorite": false
   },
   {
     "title": "When the Promise Returns",
-    "author": "Aravind Okri"
+    "author": "Aravind Okri",
+    "isFavorite": false
   },
   {
     "title": "Ravi's Orchard",
-    "author": "Ben Patel"
+    "author": "Ben Patel",
+    "isFavorite": false
   },
   {
     "title": "The Savage Compass",
-    "author": "Sean James"
+    "author": "Sean James",
+    "isFavorite": false
   },
   {
     "title": "Pale Hunger",
-    "author": "Kiran Kincaid"
+    "author": "Kiran Kincaid",
+    "isFavorite": false
   },
   {
     "title": "The Storm of Grief",
-    "author": "Kazuo Rushdie"
+    "author": "Kazuo Rushdie",
+    "isFavorite": false
   },
   {
     "title": "The Whispering Mountain",
-    "author": "Olivia Desai"
+    "author": "Olivia Desai",
+    "isFavorite": false
   },
   {
     "title": "Between Belfast and Edinburgh",
-    "author": "Imbolo Lahiri"
+    "author": "Imbolo Lahiri",
+    "isFavorite": false
   },
   {
     "title": "Pale Time",
-    "author": "James Emezi"
+    "author": "James Emezi",
+    "isFavorite": false
   },
   {
     "title": "Beatrice's Lantern",
-    "author": "Colson Noah"
+    "author": "Colson Noah",
+    "isFavorite": false
   },
   {
     "title": "Mirror of Cairo",
-    "author": "Yaa Danticat"
+    "author": "Yaa Danticat",
+    "isFavorite": false
   },
   {
     "title": "The House on Lighthouse Road",
-    "author": "Chinua Twan Eng"
+    "author": "Chinua Twan Eng",
+    "isFavorite": false
   },
   {
     "title": "Notes on Fire and Patience",
-    "author": "Chinua O'Brien"
+    "author": "Chinua O'Brien",
+    "isFavorite": false
   },
   {
     "title": "The Savage Letter of Auckland",
-    "author": "Tariq Selvadurai"
+    "author": "Tariq Selvadurai",
+    "isFavorite": false
   },
   {
     "title": "Walter and the Burning Frontier",
-    "author": "Colson Noah"
+    "author": "Colson Noah",
+    "isFavorite": false
   },
   {
     "title": "The Scarlet Mountain",
-    "author": "Brigid Emezi"
+    "author": "Brigid Emezi",
+    "isFavorite": false
   },
   {
     "title": "The Eternal Mountain of Belfast",
-    "author": "Tariq Smith"
+    "author": "Tariq Smith",
+    "isFavorite": false
   },
   {
     "title": "Priya and the Fading Cathedral",
-    "author": "Hanif Achebe"
+    "author": "Hanif Achebe",
+    "isFavorite": false
   },
   {
     "title": "The House on Hourglass Hill",
-    "author": "Chimamanda Ishiguro"
+    "author": "Chimamanda Ishiguro",
+    "isFavorite": false
   },
   {
     "title": "The House on Promise Road",
-    "author": "Arundhati Achebe"
+    "author": "Arundhati Achebe",
+    "isFavorite": false
   },
   {
     "title": "The Silent Shadow",
-    "author": "Kazuo Seth"
+    "author": "Kazuo Seth",
+    "isFavorite": false
   },
   {
     "title": "The Restless River of Cairo",
-    "author": "Chinua Selvadurai"
+    "author": "Chinua Selvadurai",
+    "isFavorite": false
   },
   {
     "title": "When the Threshold Breaks",
-    "author": "Brigid Soyinka"
+    "author": "Brigid Soyinka",
+    "isFavorite": false
   },
   {
     "title": "Clara and the Wild Frontier",
-    "author": "Marlon McCarthy"
+    "author": "Marlon McCarthy",
+    "isFavorite": false
   },
   {
     "title": "Hassan's Marketplace",
-    "author": "Ngozi Okafor"
+    "author": "Ngozi Okafor",
+    "isFavorite": false
   },
   {
     "title": "Between Boston and Calcutta",
-    "author": "Edwidge Patel"
+    "author": "Edwidge Patel",
+    "isFavorite": false
   },
   {
     "title": "A Wilderness in Belfast",
-    "author": "Sean Soyinka"
+    "author": "Sean Soyinka",
+    "isFavorite": false
   },
   {
     "title": "A Bridge in Nairobi",
-    "author": "Liam Okafor"
+    "author": "Liam Okafor",
+    "isFavorite": false
   },
   {
     "title": "Mei's Bridge",
-    "author": "Hanif Ishiguro"
+    "author": "Hanif Ishiguro",
+    "isFavorite": false
   },
   {
     "title": "When the Journey Breaks",
-    "author": "Hilary Naipaul"
+    "author": "Hilary Naipaul",
+    "isFavorite": false
   },
   {
     "title": "Silent Fire",
-    "author": "Isabel Emezi"
+    "author": "Isabel Emezi",
+    "isFavorite": false
   },
   {
     "title": "Ishaan's Empire",
-    "author": "Ben Rushdie"
+    "author": "Ben Rushdie",
+    "isFavorite": false
   },
   {
     "title": "A History of Solitude",
-    "author": "Hanif Rushdie"
+    "author": "Hanif Rushdie",
+    "isFavorite": false
   },
   {
     "title": "The Echo Keeper",
-    "author": "Teju Vuong"
+    "author": "Teju Vuong",
+    "isFavorite": false
   },
   {
     "title": "Mei's Threshold",
-    "author": "Olivia Emezi"
+    "author": "Olivia Emezi",
+    "isFavorite": false
   },
   {
     "title": "A Summer in Marrakech",
-    "author": "Akwaeke Ishiguro"
+    "author": "Akwaeke Ishiguro",
+    "isFavorite": false
   },
   {
     "title": "Thomas and the Forgotten Threshold",
-    "author": "Arundhati Wainaina"
+    "author": "Arundhati Wainaina",
+    "isFavorite": false
   },
   {
     "title": "Between Nairobi and Vancouver",
-    "author": "Tan Adebayo"
+    "author": "Tan Adebayo",
+    "isFavorite": false
   },
   {
     "title": "The Bright Throne of Lisbon",
-    "author": "Maya Patel"
+    "author": "Maya Patel",
+    "isFavorite": false
   },
   {
     "title": "The Restless Echo",
-    "author": "James Adebayo"
+    "author": "James Adebayo",
+    "isFavorite": false
   },
   {
     "title": "Walter and the Hollow Ashes",
-    "author": "Chinua James"
+    "author": "Chinua James",
+    "isFavorite": false
   },
   {
     "title": "Notes on Light and Mercy",
-    "author": "Bernardine O'Brien"
+    "author": "Bernardine O'Brien",
+    "isFavorite": false
   },
   {
     "title": "Clara and the Sacred Letter",
-    "author": "Sofia Gyasi"
+    "author": "Sofia Gyasi",
+    "isFavorite": false
   },
   {
     "title": "Notes on Patience and Silence",
-    "author": "Imbolo McCarthy"
+    "author": "Imbolo McCarthy",
+    "isFavorite": false
   },
   {
     "title": "A Vineyard in Reykjavik",
-    "author": "Min Jin James"
+    "author": "Min Jin James",
+    "isFavorite": false
   },
   {
     "title": "Notes on Hope and Sorrow",
-    "author": "Mohsin Whitehead"
+    "author": "Mohsin Whitehead",
+    "isFavorite": false
   },
   {
     "title": "When the Letter Returns",
-    "author": "Ngozi Soyinka"
+    "author": "Ngozi Soyinka",
+    "isFavorite": false
   },
   {
     "title": "The Horizon of Silence",
-    "author": "Chinua Twan Eng"
+    "author": "Chinua Twan Eng",
+    "isFavorite": false
   },
   {
     "title": "Notes on Rain and Grief",
-    "author": "Arundhati Okri"
+    "author": "Arundhati Okri",
+    "isFavorite": false
   },
   {
     "title": "Eleanor's Vineyard",
-    "author": "Yaa Nguyen"
+    "author": "Yaa Nguyen",
+    "isFavorite": false
   },
   {
     "title": "A Ember in Nairobi",
-    "author": "Kazuo Adebayo"
+    "author": "Kazuo Adebayo",
+    "isFavorite": false
   },
   {
     "title": "The Sunken Clockwork",
-    "author": "Aravind Adichie"
+    "author": "Aravind Adichie",
+    "isFavorite": false
   },
   {
     "title": "A Window in Belfast",
-    "author": "Edwidge Desai"
+    "author": "Edwidge Desai",
+    "isFavorite": false
   },
   {
     "title": "When the Clockwork Breaks",
-    "author": "Min Jin Mantel"
+    "author": "Min Jin Mantel",
+    "isFavorite": false
   },
   {
     "title": "The House on Crown Street",
-    "author": "Sean Desai"
+    "author": "Sean Desai",
+    "isFavorite": false
   },
   {
     "title": "Notes on Hunger and Time",
-    "author": "Salman James"
+    "author": "Salman James",
+    "isFavorite": false
   },
   {
     "title": "The Tender Compass of Colombo",
-    "author": "Kiran Roy"
+    "author": "Kiran Roy",
+    "isFavorite": false
   },
   {
     "title": "The Wild Echo of Nairobi",
-    "author": "Min Jin Rushdie"
+    "author": "Min Jin Rushdie",
+    "isFavorite": false
   },
   {
     "title": "The Frontier of Memory",
-    "author": "Wole Lahiri"
+    "author": "Wole Lahiri",
+    "isFavorite": false
   },
   {
     "title": "A Journey in Cape Town",
-    "author": "Brigid Patel"
+    "author": "Brigid Patel",
+    "isFavorite": false
   },
   {
     "title": "A Tide in Accra",
-    "author": "Roddy Selvadurai"
+    "author": "Roddy Selvadurai",
+    "isFavorite": false
   },
   {
     "title": "The Golden Promise",
-    "author": "Imbolo Roy"
+    "author": "Imbolo Roy",
+    "isFavorite": false
   },
   {
     "title": "Distant Solitude",
-    "author": "Chinua Vuong"
+    "author": "Chinua Vuong",
+    "isFavorite": false
   },
   {
     "title": "When the Ember Sings",
-    "author": "Vikram Vuong"
+    "author": "Vikram Vuong",
+    "isFavorite": false
   },
   {
     "title": "Adaeze and the Shattered Ember",
-    "author": "Hilary Nguyen"
+    "author": "Hilary Nguyen",
+    "isFavorite": false
   },
   {
     "title": "The House on Lantern Street",
-    "author": "Hiro Naipaul"
+    "author": "Hiro Naipaul",
+    "isFavorite": false
   },
   {
     "title": "The Midnight Ember",
-    "author": "Akwaeke Mbue"
+    "author": "Akwaeke Mbue",
+    "isFavorite": false
   },
   {
     "title": "The Tender Ledger of Dublin",
-    "author": "Roddy Twan Eng"
+    "author": "Roddy Twan Eng",
+    "isFavorite": false
   },
   {
     "title": "When the Shadow Sleeps",
-    "author": "Edwidge Selvadurai"
+    "author": "Edwidge Selvadurai",
+    "isFavorite": false
   },
   {
     "title": "A Journey in Auckland",
-    "author": "Bernardine Doyle"
+    "author": "Bernardine Doyle",
+    "isFavorite": false
   },
   {
     "title": "When the Promise Waits",
-    "author": "Sofia Adichie"
+    "author": "Sofia Adichie",
+    "isFavorite": false
   },
   {
     "title": "The Distant Echo of Vancouver",
-    "author": "Yaa Murakami"
+    "author": "Yaa Murakami",
+    "isFavorite": false
   },
   {
     "title": "Broken Faith",
-    "author": "Chimamanda Hamid"
+    "author": "Chimamanda Hamid",
+    "isFavorite": false
   },
   {
     "title": "Quiet Mercy",
-    "author": "Anita Soyinka"
+    "author": "Anita Soyinka",
+    "isFavorite": false
   },
   {
     "title": "Notes on Longing and Hunger",
-    "author": "Chimamanda Adichie"
+    "author": "Chimamanda Adichie",
+    "isFavorite": false
   },
   {
     "title": "A Voyage in Calcutta",
-    "author": "Arundhati Roy"
+    "author": "Arundhati Roy",
+    "isFavorite": false
   },
   {
     "title": "Between Toronto and Vancouver",
-    "author": "Sofia Desai"
+    "author": "Sofia Desai",
+    "isFavorite": false
   },
   {
     "title": "The City of Mercy",
-    "author": "Zadie Okri"
+    "author": "Zadie Okri",
+    "isFavorite": false
   },
   {
     "title": "Hassan and the Tender Desert",
-    "author": "Teju McCarthy"
+    "author": "Teju McCarthy",
+    "isFavorite": false
   },
   {
     "title": "The Marketplace of Distance",
-    "author": "Min Jin Smith"
+    "author": "Min Jin Smith",
+    "isFavorite": false
   },
   {
     "title": "The Secret Promise of Auckland",
-    "author": "Vikram Twan Eng"
+    "author": "Vikram Twan Eng",
+    "isFavorite": false
   },
   {
     "title": "Between Reykjavik and Calcutta",
-    "author": "Mohsin Roy"
+    "author": "Mohsin Roy",
+    "isFavorite": false
   },
   {
     "title": "The House on Reckoning Street",
-    "author": "Anita Adichie"
+    "author": "Anita Adichie",
+    "isFavorite": false
   },
   {
     "title": "The House on Desert Street",
-    "author": "Isabel Smith"
+    "author": "Isabel Smith",
+    "isFavorite": false
   },
   {
     "title": "The House on Tide Road",
-    "author": "Tariq Achebe"
+    "author": "Tariq Achebe",
+    "isFavorite": false
   },
   {
     "title": "Notes on Memory and Light",
-    "author": "Tariq Mantel"
+    "author": "Tariq Mantel",
+    "isFavorite": false
   },
   {
     "title": "Falling Wonder",
-    "author": "Bernardine Kureishi"
+    "author": "Bernardine Kureishi",
+    "isFavorite": false
   },
   {
     "title": "The Bitter Empire of Auckland",
-    "author": "Olivia O'Brien"
+    "author": "Olivia O'Brien",
+    "isFavorite": false
   },
   {
     "title": "Notes on Distance and Light",
-    "author": "Anita McCarthy"
+    "author": "Anita McCarthy",
+    "isFavorite": false
   },
   {
     "title": "Lantern of Karachi",
-    "author": "Brigid Achebe"
+    "author": "Brigid Achebe",
+    "isFavorite": false
   },
   {
     "title": "The Shadow of Fire",
-    "author": "Sofia Smith"
+    "author": "Sofia Smith",
+    "isFavorite": false
   },
   {
     "title": "The House on Inheritance Road",
-    "author": "Ngozi Noah"
+    "author": "Ngozi Noah",
+    "isFavorite": false
   },
   {
     "title": "A Vineyard in Edinburgh",
-    "author": "Roddy Roy"
+    "author": "Roddy Roy",
+    "isFavorite": false
   },
   {
     "title": "The Stolen Frontier of Reykjavik",
-    "author": "Chinua O'Brien"
+    "author": "Chinua O'Brien",
+    "isFavorite": false
   },
   {
     "title": "A Reckoning in Karachi",
-    "author": "Aravind Okafor"
+    "author": "Aravind Okafor",
+    "isFavorite": false
   },
   {
     "title": "Between Belfast and Auckland",
-    "author": "Vikram Adebayo"
+    "author": "Vikram Adebayo",
+    "isFavorite": false
   },
   {
     "title": "Grace and the Last Horizon",
-    "author": "Anita Whitehead"
+    "author": "Anita Whitehead",
+    "isFavorite": false
   },
   {
     "title": "Beatrice's Tide",
-    "author": "Min Jin Banerjee"
+    "author": "Min Jin Banerjee",
+    "isFavorite": false
   },
   {
     "title": "A Throne in Marrakech",
-    "author": "Edwidge Soyinka"
+    "author": "Edwidge Soyinka",
+    "isFavorite": false
   },
   {
     "title": "Iron Patience",
-    "author": "Sofia Okafor"
+    "author": "Sofia Okafor",
+    "isFavorite": false
   },
   {
     "title": "Horizon of Auckland",
-    "author": "Aravind McCarthy"
+    "author": "Aravind McCarthy",
+    "isFavorite": false
   },
   {
     "title": "The Scarlet Clockwork of Mumbai",
-    "author": "Vikram Desai"
+    "author": "Vikram Desai",
+    "isFavorite": false
   },
   {
     "title": "Between Glasgow and Lisbon",
-    "author": "Jhumpa Okafor"
+    "author": "Jhumpa Okafor",
+    "isFavorite": false
   },
   {
     "title": "The Hidden Lighthouse",
-    "author": "James Soyinka"
+    "author": "James Soyinka",
+    "isFavorite": false
   },
   {
     "title": "Grace and the Distant Ember",
-    "author": "Sofia Okafor"
+    "author": "Sofia Okafor",
+    "isFavorite": false
   },
   {
     "title": "Beatrice and the Golden Wilderness",
-    "author": "Liam Gyasi"
+    "author": "Liam Gyasi",
+    "isFavorite": false
   },
   {
     "title": "When the Garden Sings",
-    "author": "Teju Lahiri"
+    "author": "Teju Lahiri",
+    "isFavorite": false
   },
   {
     "title": "Lantern of Marrakech",
-    "author": "Aravind Ishiguro"
+    "author": "Aravind Ishiguro",
+    "isFavorite": false
   },
   {
     "title": "Notes on Time and Patience",
-    "author": "Isabel Doyle"
+    "author": "Isabel Doyle",
+    "isFavorite": false
   },
   {
     "title": "The Glass Ashes of Mumbai",
-    "author": "Salman Emezi"
+    "author": "Salman Emezi",
+    "isFavorite": false
   },
   {
     "title": "Ishaan's Harbor",
-    "author": "Hanif Adichie"
+    "author": "Hanif Adichie",
+    "isFavorite": false
   },
   {
     "title": "Ember of Sydney",
-    "author": "Maya Roy"
+    "author": "Maya Roy",
+    "isFavorite": false
   },
   {
     "title": "The Winter of Distance",
-    "author": "Kofi Wainaina"
+    "author": "Kofi Wainaina",
+    "isFavorite": false
   },
   {
     "title": "Yuki's Cathedral",
-    "author": "Jhumpa Smith"
+    "author": "Jhumpa Smith",
+    "isFavorite": false
   },
   {
     "title": "The Garden of Salt",
-    "author": "Sean Twan Eng"
+    "author": "Sean Twan Eng",
+    "isFavorite": false
   },
   {
     "title": "The Frozen Confession",
-    "author": "Jhumpa Emezi"
+    "author": "Jhumpa Emezi",
+    "isFavorite": false
   },
   {
     "title": "The Hollow Ocean of Cape Town",
-    "author": "Tan Wainaina"
+    "author": "Tan Wainaina",
+    "isFavorite": false
   },
   {
     "title": "The Crimson Empire",
-    "author": "Ben O'Brien"
+    "author": "Ben O'Brien",
+    "isFavorite": false
   },
   {
     "title": "The House on Promise Hill",
-    "author": "Trevor Naipaul"
+    "author": "Trevor Naipaul",
+    "isFavorite": false
   },
   {
     "title": "The Stolen Sanctuary of Boston",
-    "author": "Hilary Gyasi"
+    "author": "Hilary Gyasi",
+    "isFavorite": false
   },
   {
     "title": "Notes on Wonder and Distance",
-    "author": "Sean Mensah"
+    "author": "Sean Mensah",
+    "isFavorite": false
   },
   {
     "title": "The Clockwork of Dust",
-    "author": "James Noah"
+    "author": "James Noah",
+    "isFavorite": false
   },
   {
     "title": "City of Marrakech",
-    "author": "Ngozi Desai"
+    "author": "Ngozi Desai",
+    "isFavorite": false
   },
   {
     "title": "The Garden of Patience",
-    "author": "Hanif Wainaina"
+    "author": "Hanif Wainaina",
+    "isFavorite": false
   },
   {
     "title": "Walter's Crown",
-    "author": "Kofi Selvadurai"
+    "author": "Kofi Selvadurai",
+    "isFavorite": false
   },
   {
     "title": "Between Vancouver and Singapore",
-    "author": "Salman Evaristo"
+    "author": "Salman Evaristo",
+    "isFavorite": false
   },
   {
     "title": "Between Boston and Vancouver",
-    "author": "Arundhati Ishiguro"
+    "author": "Arundhati Ishiguro",
+    "isFavorite": false
   },
   {
     "title": "Rising Hope",
-    "author": "Hilary Noah"
+    "author": "Hilary Noah",
+    "isFavorite": false
   },
   {
     "title": "Orchard of Vancouver",
-    "author": "Marlon Kureishi"
+    "author": "Marlon Kureishi",
+    "isFavorite": false
   },
   {
     "title": "Broken Freedom",
-    "author": "Sean Patel"
+    "author": "Sean Patel",
+    "isFavorite": false
   },
   {
     "title": "Wild Hunger",
-    "author": "Kazuo Twan Eng"
+    "author": "Kazuo Twan Eng",
+    "isFavorite": false
   },
   {
     "title": "The Stolen Journey of Lagos",
-    "author": "Tariq Lahiri"
+    "author": "Tariq Lahiri",
+    "isFavorite": false
   },
   {
     "title": "The Bright Bridge",
-    "author": "Edwidge Soyinka"
+    "author": "Edwidge Soyinka",
+    "isFavorite": false
   },
   {
     "title": "Notes on Dust and Time",
-    "author": "Vikram Twan Eng"
+    "author": "Vikram Twan Eng",
+    "isFavorite": false
   },
   {
     "title": "A Echo in Dublin",
-    "author": "Kofi Kureishi"
+    "author": "Kofi Kureishi",
+    "isFavorite": false
   },
   {
     "title": "The Hourglass Keeper",
-    "author": "Cormac Murakami"
+    "author": "Cormac Murakami",
+    "isFavorite": false
   },
   {
     "title": "Forgotten Solitude",
-    "author": "Sofia Murakami"
+    "author": "Sofia Murakami",
+    "isFavorite": false
   },
   {
     "title": "Eleanor and the Ancient Ashes",
-    "author": "Chimamanda Hamid"
+    "author": "Chimamanda Hamid",
+    "isFavorite": false
   },
   {
     "title": "Walter and the Golden Hourglass",
-    "author": "Akwaeke Seth"
+    "author": "Akwaeke Seth",
+    "isFavorite": false
   },
   {
     "title": "The City of Solitude",
-    "author": "Ocean Murakami"
+    "author": "Ocean Murakami",
+    "isFavorite": false
   },
   {
     "title": "Beatrice and the Drowned Tide",
-    "author": "Wole Achebe"
+    "author": "Wole Achebe",
+    "isFavorite": false
   },
   {
     "title": "Notes on Fire and Rain",
-    "author": "Bernardine Twan Eng"
+    "author": "Bernardine Twan Eng",
+    "isFavorite": false
   },
   {
     "title": "Notes on Memory and Dust",
-    "author": "Ngozi Adebayo"
+    "author": "Ngozi Adebayo",
+    "isFavorite": false
   },
   {
     "title": "A Frontier in Karachi",
-    "author": "Aravind Emezi"
+    "author": "Aravind Emezi",
+    "isFavorite": false
   },
   {
     "title": "Storm of Manila",
-    "author": "Maya Smith"
+    "author": "Maya Smith",
+    "isFavorite": false
   },
   {
     "title": "The Broken Threshold",
-    "author": "Arundhati Murakami"
+    "author": "Arundhati Murakami",
+    "isFavorite": false
   },
   {
     "title": "Silent Wonder",
-    "author": "Bernardine Adichie"
+    "author": "Bernardine Adichie",
+    "isFavorite": false
   },
   {
     "title": "The Mountain Keeper",
-    "author": "Ocean Mantel"
+    "author": "Ocean Mantel",
+    "isFavorite": false
   },
   {
     "title": "A Hourglass in Manila",
-    "author": "Hiro Okafor"
+    "author": "Hiro Okafor",
+    "isFavorite": false
   },
   {
     "title": "Lucia and the Northern Lantern",
-    "author": "Ngozi Mantel"
+    "author": "Ngozi Mantel",
+    "isFavorite": false
   },
   {
     "title": "The Sacred Bridge of Vancouver",
-    "author": "Isabel Noah"
+    "author": "Isabel Noah",
+    "isFavorite": false
   },
   {
     "title": "The Voyage of Longing",
-    "author": "Sean McCarthy"
+    "author": "Sean McCarthy",
+    "isFavorite": false
   },
   {
     "title": "The Fading Shadow of Kingston",
-    "author": "Maya Adebayo"
+    "author": "Maya Adebayo",
+    "isFavorite": false
   },
   {
     "title": "Beatrice's River",
-    "author": "Salman Mantel"
+    "author": "Salman Mantel",
+    "isFavorite": false
   },
   {
     "title": "Rosa and the Velvet Orchard",
-    "author": "Ocean Wainaina"
+    "author": "Ocean Wainaina",
+    "isFavorite": false
   },
   {
     "title": "The Forgotten Harbor",
-    "author": "Kiran Roy"
+    "author": "Kiran Roy",
+    "isFavorite": false
   },
   {
     "title": "Lucia and the Hidden Horizon",
-    "author": "Marlon Twan Eng"
+    "author": "Marlon Twan Eng",
+    "isFavorite": false
   },
   {
     "title": "Wild Solitude",
-    "author": "Colson Ishiguro"
+    "author": "Colson Ishiguro",
+    "isFavorite": false
   },
   {
     "title": "A Clockwork in Toronto",
-    "author": "Yaa Smith"
+    "author": "Yaa Smith",
+    "isFavorite": false
   },
   {
     "title": "Notes on Faith and Silence",
-    "author": "Edwidge Desai"
+    "author": "Edwidge Desai",
+    "isFavorite": false
   },
   {
     "title": "The Singing Shadow",
-    "author": "Olivia Mantel"
+    "author": "Olivia Mantel",
+    "isFavorite": false
   },
   {
     "title": "Notes on Solitude and Light",
-    "author": "Aravind Desai"
+    "author": "Aravind Desai",
+    "isFavorite": false
   },
   {
     "title": "Fading Salt",
-    "author": "Sofia Nguyen"
+    "author": "Sofia Nguyen",
+    "isFavorite": false
   },
   {
     "title": "Notes on Grief and Light",
-    "author": "Kiran Kureishi"
+    "author": "Kiran Kureishi",
+    "isFavorite": false
   },
   {
     "title": "The Forgotten Frontier of Lagos",
-    "author": "James Lee"
+    "author": "James Lee",
+    "isFavorite": false
   },
   {
     "title": "Nadia and the Distant Ledger",
-    "author": "Ngozi Smith"
+    "author": "Ngozi Smith",
+    "isFavorite": false
   },
   {
     "title": "The Savage Mountain of Kingston",
-    "author": "Trevor Murakami"
+    "author": "Trevor Murakami",
+    "isFavorite": false
   },
   {
     "title": "The Restless Garden",
-    "author": "Tan O'Brien"
+    "author": "Tan O'Brien",
+    "isFavorite": false
   },
   {
     "title": "Esther's Storm",
-    "author": "Edwidge Desai"
+    "author": "Edwidge Desai",
+    "isFavorite": false
   },
   {
     "title": "Grace and the Sacred Tide",
-    "author": "Akwaeke Soyinka"
+    "author": "Akwaeke Soyinka",
+    "isFavorite": false
   },
   {
     "title": "The Storm of Distance",
-    "author": "Salman Lee"
+    "author": "Salman Lee",
+    "isFavorite": false
   },
   {
     "title": "Between Singapore and Havana",
-    "author": "Chimamanda Lahiri"
+    "author": "Chimamanda Lahiri",
+    "isFavorite": false
   },
   {
     "title": "Between Reykjavik and Boston",
-    "author": "Tan Patel"
+    "author": "Tan Patel",
+    "isFavorite": false
   },
   {
     "title": "Between Belfast and Cape Town",
-    "author": "Anita Seth"
+    "author": "Anita Seth",
+    "isFavorite": false
   },
   {
     "title": "Letters from Cape Town",
-    "author": "Isabel Whitehead"
+    "author": "Isabel Whitehead",
+    "isFavorite": false
   },
   {
     "title": "The House on Journey Road",
-    "author": "Akwaeke Rushdie"
+    "author": "Akwaeke Rushdie",
+    "isFavorite": false
   },
   {
     "title": "The Quiet Storm of Lagos",
-    "author": "Vikram Mbue"
+    "author": "Vikram Mbue",
+    "isFavorite": false
   },
   {
     "title": "The House on City Road",
-    "author": "Hanif Patel"
+    "author": "Hanif Patel",
+    "isFavorite": false
   },
   {
     "title": "Between Calcutta and Calcutta",
-    "author": "Liam Cole"
+    "author": "Liam Cole",
+    "isFavorite": false
   },
   {
     "title": "The Lantern of Memory",
-    "author": "Wole Lahiri"
+    "author": "Wole Lahiri",
+    "isFavorite": false
   },
   {
     "title": "The Restless Marketplace of Belfast",
-    "author": "Edwidge Hamid"
+    "author": "Edwidge Hamid",
+    "isFavorite": false
   },
   {
     "title": "The Confession of Mercy",
-    "author": "Hanif Soyinka"
+    "author": "Hanif Soyinka",
+    "isFavorite": false
   },
   {
     "title": "City of Mumbai",
-    "author": "Jhumpa Twan Eng"
+    "author": "Jhumpa Twan Eng",
+    "isFavorite": false
   },
   {
     "title": "Broken Hope",
-    "author": "Min Jin Adebayo"
+    "author": "Min Jin Adebayo",
+    "isFavorite": false
   },
   {
     "title": "Storm of Karachi",
-    "author": "Isabel O'Brien"
+    "author": "Isabel O'Brien",
+    "isFavorite": false
   },
   {
     "title": "The Forgotten City of Glasgow",
-    "author": "Vikram O'Brien"
+    "author": "Vikram O'Brien",
+    "isFavorite": false
   },
   {
     "title": "The Golden Wilderness",
-    "author": "Marlon Emezi"
+    "author": "Marlon Emezi",
+    "isFavorite": false
   },
   {
     "title": "The Iron Echo of Singapore",
-    "author": "Teju Okri"
+    "author": "Teju Okri",
+    "isFavorite": false
   },
   {
     "title": "Yuki's Mirror",
-    "author": "Kofi Naipaul"
+    "author": "Kofi Naipaul",
+    "isFavorite": false
   },
   {
     "title": "The Restless Mountain",
-    "author": "Sofia Cole"
+    "author": "Sofia Cole",
+    "isFavorite": false
   },
   {
     "title": "A Cathedral in Belfast",
-    "author": "Brigid Banerjee"
+    "author": "Brigid Banerjee",
+    "isFavorite": false
   },
   {
     "title": "The Vineyard of Memory",
-    "author": "Ben Seth"
+    "author": "Ben Seth",
+    "isFavorite": false
   },
   {
     "title": "The Tender Reckoning",
-    "author": "Aravind Seth"
+    "author": "Aravind Seth",
+    "isFavorite": false
   },
   {
     "title": "Grace and the Bright Confession",
-    "author": "Aravind Adebayo"
+    "author": "Aravind Adebayo",
+    "isFavorite": false
   },
   {
     "title": "Fading Sorrow",
-    "author": "Hanif Desai"
+    "author": "Hanif Desai",
+    "isFavorite": false
   },
   {
     "title": "Between Manila and Singapore",
-    "author": "Kazuo O'Brien"
+    "author": "Kazuo O'Brien",
+    "isFavorite": false
   },
   {
     "title": "Notes on Dust and Hope",
-    "author": "Teju Mbue"
+    "author": "Teju Mbue",
+    "isFavorite": false
   },
   {
     "title": "The Distant City",
-    "author": "Anita Seth"
+    "author": "Anita Seth",
+    "isFavorite": false
   },
   {
     "title": "The Velvet Hourglass",
-    "author": "Hilary Lee"
+    "author": "Hilary Lee",
+    "isFavorite": false
   },
   {
     "title": "Drowned Faith",
-    "author": "Ngozi O'Brien"
+    "author": "Ngozi O'Brien",
+    "isFavorite": false
   }
 ]
