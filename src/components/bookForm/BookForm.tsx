@@ -1,11 +1,14 @@
 import { useState } from "react";
 import { useDispatch } from "react-redux";
 import type { AppDispatch } from "../../redux/store";
-import { addBook } from "../../redux/books/actionCreators";
+// import { addBook } from "../../redux/books/actionCreators";
+import { addBook, toggleFavorite } from "../../redux/slices/booksSlice";
+
 import data from "../../data/data.json";
 
 import "./BookForm.css";
 import CreateBook from "../../utils/createBook";
+import axios from "axios";
 
 
 export default function BookForm() {
@@ -16,7 +19,7 @@ export default function BookForm() {
     const handleSubmit = (e: React.FormEvent<HTMLFormElement>) => {
         e.preventDefault();
         if (title && author) {
-            dispatch(addBook(CreateBook({title, author})));
+            dispatch(addBook(CreateBook({ title, author })));
             setTitle("")
             setAuthor("");
         }
@@ -25,10 +28,23 @@ export default function BookForm() {
 
     const handleAddRandomBook = () => {
         const rndid = Math.floor(Math.random() * data.length)
-        if( data[rndid]) {
+        if (data[rndid]) {
             const title = data[rndid].title
             const author = data[rndid].author
-            dispatch(addBook(CreateBook({title, author})));
+            dispatch(addBook(CreateBook({ title, author })));
+        }
+    }
+
+    const handleAddRandomBookViaAPI = async () => {
+        try {
+            const res = await axios.get("http://localhost:5000/random-book")
+            if (res.data.title && res.data.author) {
+                dispatch(addBook((CreateBook(res.data))))
+                console.log(res)
+            }
+        }
+        catch (e) {
+            console.log(e);
         }
     }
 
@@ -46,6 +62,7 @@ export default function BookForm() {
                 </div>
                 <button type="submit">Add Book</button>
                 <button type="button" onClick={handleAddRandomBook}>Add Random Book</button>
+                <button onClick={handleAddRandomBookViaAPI}>Add Book From API</button>
             </form>
         </div>
     )

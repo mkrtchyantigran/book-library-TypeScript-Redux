@@ -2,9 +2,11 @@
 import { useSelector } from "react-redux";
 import { useDispatch } from "react-redux";
 import type { AppDispatch } from "../../redux/store";
-import type { RootState } from "../../redux/store";
+
 import { type NewBook } from "../interfaces/NewBookInterface";
-import { deleteBook, toggleFavorite } from "../../redux/books/actionCreators";
+// import { deleteBook, toggleFavorite } from "../../redux/books/actionCreators";
+import { deleteBook,toggleFavorite, selectBooks  } from "../../redux/slices/booksSlice";
+
 import { MdFavorite, MdFavoriteBorder } from "react-icons/md";
 import { selectFilterTitle, selectFilterAuthor,selectOnlyFavorite } from "../../redux/slices/filterSlice";
 
@@ -12,7 +14,7 @@ import "./BookList.css"
 
 export default function BookList() {
 
-    const books = useSelector((state: RootState) => state.books)
+    const books = useSelector(selectBooks)
 
     const titleFilter = useSelector(selectFilterTitle)
     const authorFilter = useSelector(selectFilterAuthor)
@@ -28,18 +30,29 @@ export default function BookList() {
     const handleToggleFavorite = (id:string) => {
         dispatch(toggleFavorite(id))
     }
-    const filteredBooks = books.filter(book => {
+    const filteredBooks = books.filter((book: NewBook) => {
         const matchesTitle = book.title.toLowerCase().includes(titleFilter.toLowerCase());
         const matchesAuthor = book.author.toLowerCase().includes(authorFilter.toLowerCase());
         const matchesOnlyFavorite = onlyFavoriteBooks ? book.isFavorite : true;
         return matchesTitle && matchesAuthor && matchesOnlyFavorite;
     })
 
+    // const hightLight = (text, filter ) => {
+    //     if(!filter) return text
+    //     const regexp = new RegExp(`(`${filter}`, 'gi')`);
+    //     return text.split(regexp).map((part, i) => {
+    //         if(part.toLowerCase() === filter.toLowerCase()) {
+    //             <span key={i} className="highlight">{part}</span>
+    //         }
+    //     })
+    //     return part
+    // }
+
 
     return (
         <div className="app-block book-list">
             {
-                books.length === 0 ? (
+                filteredBooks.length === 0 ? (
                     <p>No books yet.</p>
                 ) : (
                     <ul>
