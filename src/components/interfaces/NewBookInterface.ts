@@ -3,4 +3,5 @@ export interface NewBook {
     author: string;
     id: string;
     isFavorite?: boolean;
+    source: string;
 }

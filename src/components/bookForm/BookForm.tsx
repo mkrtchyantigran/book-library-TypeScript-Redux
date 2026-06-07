@@ -2,13 +2,13 @@ import { useState } from "react";
 import { useDispatch } from "react-redux";
 import type { AppDispatch } from "../../redux/store";
 // import { addBook } from "../../redux/books/actionCreators";
-import { addBook, toggleFavorite } from "../../redux/slices/booksSlice";
+import { addBook, fetchBook } from "../../redux/slices/booksSlice";
 
 import data from "../../data/data.json";
 
 import "./BookForm.css";
 import CreateBook from "../../utils/createBook";
-import axios from "axios";
+
 
 
 export default function BookForm() {
@@ -19,7 +19,7 @@ export default function BookForm() {
     const handleSubmit = (e: React.FormEvent<HTMLFormElement>) => {
         e.preventDefault();
         if (title && author) {
-            dispatch(addBook(CreateBook({ title, author })));
+            dispatch(addBook(CreateBook({ title, author }, "manual")));
             setTitle("")
             setAuthor("");
         }
@@ -31,21 +31,26 @@ export default function BookForm() {
         if (data[rndid]) {
             const title = data[rndid].title
             const author = data[rndid].author
-            dispatch(addBook(CreateBook({ title, author })));
+            dispatch(addBook(CreateBook({ title, author }, "via random")));
         }
     }
 
-    const handleAddRandomBookViaAPI = async () => {
-        try {
-            const res = await axios.get("http://localhost:5000/random-book")
-            if (res.data.title && res.data.author) {
-                dispatch(addBook((CreateBook(res.data))))
-                console.log(res)
-            }
-        }
-        catch (e) {
-            console.log(e);
-        }
+    // const thunkFunction = async (dispatch, getState) => {
+    //     console.log(getState)
+    //         try {
+    //         const res = await axios.get("http://localhost:5000/random-book")
+    //         if (res?.data && res?.data?.title && res?.data?.author) {
+    //             dispatch(addBook((CreateBook(res.data, "via api"))))
+    //         }
+    //     }
+    //     catch (e) {
+    //         console.log(e);
+    //     }
+    //     console.log(getState)
+    // }
+
+     const handleAddRandomBookViaAPI =  () => {
+        dispatch(fetchBook())
     }
 
     return (
