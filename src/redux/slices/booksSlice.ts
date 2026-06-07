@@ -82,7 +82,7 @@ const BooksSlice = createSlice({
                 state.push(CreateBook(action.payload, "via api"))
             }
         });
-        builder.addCase(fetchBook.rejected, (state, action) => {
+        builder.addCase(fetchBook.rejected, (_, action) => {
             console.log(action)
         })
     }
