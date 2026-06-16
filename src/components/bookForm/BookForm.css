@@ -33,9 +33,19 @@
     background: #0056b3
 }
 
-.book-form .spinner {
+.book-form button:disabled {
+    background: #8888;
+    cursor:not-allowed
+}
+
+.spinner {
     animation: spinner 1s infinite linear;
-    margin-bottom: 10px;
+}
+
+.loading_wrapper {
+    display: flex;
+    gap: 6px;
+    align-items: center;
 }
 
 @keyframes spinner {

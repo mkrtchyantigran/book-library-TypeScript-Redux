@@ -15,7 +15,7 @@ import "./BookList.css"
 export default function BookList() {
 
     const books = useSelector(selectBooks)
-
+    
     const titleFilter = useSelector(selectFilterTitle)
     const authorFilter = useSelector(selectFilterAuthor)
     const onlyFavoriteBooks = useSelector(selectOnlyFavorite);
@@ -63,8 +63,8 @@ export default function BookList() {
                             <li key={book.id}>
                                 <div className="book-info">
                                     <span>{++i}</span>
-                                    {highlightMatch(book.title, titleFilter)}
-                                    by <strong>
+                                    {highlightMatch(book.title, titleFilter )} 
+                                       by <strong>
                                         {highlightMatch(book.author, authorFilter)}
                                     </strong>
                                     <p className="source">{book.source}</p>

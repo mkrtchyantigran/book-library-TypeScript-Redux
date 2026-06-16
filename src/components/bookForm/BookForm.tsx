@@ -1,10 +1,10 @@
 import { useState } from "react";
-import { useDispatch } from "react-redux";
+import { useDispatch, useSelector } from "react-redux";
 import type { AppDispatch } from "../../redux/store";
 // import { addBook } from "../../redux/books/actionCreators";
-import { addBook, fetchBook } from "../../redux/slices/booksSlice";
-
+import { addBook, fetchBook, selectIsLoadingViaApi } from "../../redux/slices/booksSlice";
 import data from "../../data/data.json";
+import { FaSpinner } from "react-icons/fa";
 
 import "./BookForm.css";
 import CreateBook from "../../utils/createBook";
@@ -15,6 +15,7 @@ export default function BookForm() {
     const [title, setTitle] = useState("");
     const [author, setAuthor] = useState("")
     const dispatch = useDispatch<AppDispatch>();
+    const isLoadingViaApi = useSelector(selectIsLoadingViaApi)
 
     const handleSubmit = (e: React.FormEvent<HTMLFormElement>) => {
         e.preventDefault();
@@ -22,8 +23,9 @@ export default function BookForm() {
             dispatch(addBook(CreateBook({ title, author }, "manual")));
             setTitle("")
             setAuthor("");
-        }  else {
-            dispatch(setError("You must fill book's title and author"))
+            dispatch(setSuccess("the book has been added"))
+        } else {
+            dispatch(setError("fill the inputs"))
         }
 
     }
@@ -34,6 +36,9 @@ export default function BookForm() {
             const title = data[rndid].title
             const author = data[rndid].author
             dispatch(addBook(CreateBook({ title, author }, "via random")));
+            dispatch(setSuccess("the book has been added"));
+        } else {
+            dispatch(setError("the book has been added"));
         }
     }
 
@@ -51,8 +56,13 @@ export default function BookForm() {
     //     console.log(getState)
     // }
 
-     const handleAddRandomBookViaAPI =  () => {
-        dispatch(fetchBook())
+    const handleAddRandomBookViaAPI = async () => {
+        try {
+            await dispatch(fetchBook("http://localhost:5000/api-book-with-delay"));
+            isLoadingViaApi(false)
+        } catch (error) {
+            console.log(error);
+        } 
     }
 
     return (
@@ -69,7 +79,17 @@ export default function BookForm() {
                 </div>
                 <button type="submit">Add Book</button>
                 <button type="button" onClick={handleAddRandomBook}>Add Random Book</button>
-                <button onClick={handleAddRandomBookViaAPI}>Add Book From API</button>
+                {
+
+                    <button
+                        type="button"
+                        disabled={isLoadingViaApi}
+                        onClick={handleAddRandomBookViaAPI}
+                    >
+                        {isLoadingViaApi ? <span className="loading_wrapper"><FaSpinner className="spinner" />Loading...</span> : "Get From API"}
+
+                    </button>
+                }
             </form>
         </div>
     )
